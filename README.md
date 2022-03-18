@@ -19,7 +19,7 @@
 ### Integrate Kubernetes with Conjur Enterprise using the JWT authenticator
 - A guide to demonstrate integration of Kubernetes with Conjur Enterprise using the K8s authenticator
 - <https://joetanx.github.io/conjur-k8s-jwt/>
-- 
+
 ### Integrate Kubernetes with Conjur Enterprise using the K8s authenticator
 - A guide to demonstrate integration of Kubernetes with Conjur Enterprise using the K8s authenticator
 - <https://joetanx.github.io/conjur-k8s/>
