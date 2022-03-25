@@ -32,7 +32,7 @@
 - A guide to demonstrate integration of Ansible Core with Conjur
 - <https://joetanx.github.io/conjur-ansible/>
 
-## Other Supporting roles
+## Others
 
 ### Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)
 - Setup single-node Kubernetes cluster running on Red Hat Enterprise Linux 8.5 with CRI-O as the container runtime interface and Flannel networking
@@ -45,3 +45,6 @@
 ### Generate a self-signed certificate chain with openssl
 - A guide to generate your own self-signed certificate chain for lab testing
 - <https://joetanx.github.io/self-signed-ca/>
+
+### My OSCP preparation
+- <https://joetanx.github.io/oscp/>
