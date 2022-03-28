@@ -20,10 +20,6 @@
 - A guide to demonstrate integration of Kubernetes with Conjur Enterprise using the K8s authenticator
 - <https://joetanx.github.io/conjur-k8s-jwt/>
 
-### Integrate Kubernetes with Conjur Enterprise using the K8s authenticator
-- A guide to demonstrate integration of Kubernetes with Conjur Enterprise using the K8s authenticator
-- <https://joetanx.github.io/conjur-k8s/>
-
 ### Integrate Puppet with Conjur
 - A guide to demonstrate integration of Puppet with Conjur
 - <https://joetanx.github.io/conjur-puppet/>
