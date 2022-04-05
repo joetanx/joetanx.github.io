@@ -30,6 +30,10 @@
 
 ## Others
 
+### Load Balancing CyberArk Servers
+- A guide on using open source nginx + keepalive to load balance CyberArk PVWA, PSM, PSMGW, CCP, and Conjur servers
+- <https://joetanx.github.io/load-balancing-cyberark/>
+
 ### Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)
 - Setup single-node Kubernetes cluster running on Red Hat Enterprise Linux 8.5 with CRI-O as the container runtime interface and Flannel networking
 - <https://joetanx.github.io/cri-o-kube/>
