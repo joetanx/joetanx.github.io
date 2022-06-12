@@ -2,9 +2,15 @@
 
 ## Conjur Setup
 
-### Setup Conjur Enterprise master on RHEL with Podman
-- A guide to setup Conjur Enterprise master on Podman with base policies for MySQL and AWS API keys
+### Setup Conjur Enterprise master on Podman on RHEL 9
+- A guide to setup a standalone Conjur Enterprise leader on Podman with base policies for MySQL and AWS API keys
 - <https://joetanx.github.io/conjur-master/>
+
+### Setup Conjur Enterprise cluster and followers + Podman + RHEL 9 + Keepalived + Nginx
+- A guide to setup Conjur Enterprise cluster and followers on Podman on RHEL 9 using:
+  - Keepalived for cluster floating IP address
+  - Nginx + Keepalived load balancers for followers
+- <https://joetanx.github.io/conjur-cluster/>
 
 ### Setup Conjur Open Source Suite on RHEL with Podman
 - A guide to setup a minimal Conjur OSS on Podman using `podman play kube` with base policies for MySQL and AWS API keys
