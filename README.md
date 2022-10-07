@@ -41,7 +41,7 @@
 - <https://joetanx.github.io/load-balancing-cyberark/>
 
 ### Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)
-- Setup single-node Kubernetes cluster running on Red Hat Enterprise Linux 8.5 with CRI-O as the container runtime interface and Flannel networking
+- Setup single-node Kubernetes cluster running on Red Hat Enterprise Linux 9 with CRI-O as the container runtime interface and Flannel networking
 - <https://joetanx.github.io/cri-o-kube/>
 
 ### Setup MySQL database
