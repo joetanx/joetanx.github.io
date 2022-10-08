@@ -16,7 +16,7 @@
 - A guide to setup a minimal Conjur OSS on Podman using `podman play kube` with base policies for MySQL and AWS API keys
 - <https://joetanx.github.io/conjur-oss/>
 
-## Conjur Integrations
+## CyberArk Secrets Manager Integrations
 
 ### Integrate Jenkins with Conjur Enterprise using the JWT authenticator
 - A guide to demonstrate integration of Jenkins with Conjur Enterprise using the JWT authenticator
@@ -33,6 +33,10 @@
 ### Integrate Ansible Core with Conjur
 - A guide to demonstrate integration of Ansible Core with Conjur
 - <https://joetanx.github.io/conjur-ansible/>
+
+### Integrate Ansible Automation Platform with CCP and Conjur
+- A guide to demonstrate integration of Ansible Automation Platform with CCP and Conjur
+- <https://joetanx.github.io/cybr-aap/>
 
 ## Others
 
