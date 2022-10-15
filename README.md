@@ -22,21 +22,26 @@
 - A guide to demonstrate integration of Jenkins with Conjur Enterprise using the JWT authenticator
 - <https://joetanx.github.io/conjur-jenkins/>
 
+
+### Integrate GitLab with Conjur Enterprise using the JWT authenticator
+- A guide to demonstrate integration of GitLab with Conjur Enterprise using the JWT authenticator
+- <https://joetanx.github.io/conjur-gitlab/>
+
 ### Integrate Kubernetes with Conjur Enterprise using the JWT authenticator
 - A guide to demonstrate integration of Kubernetes with Conjur Enterprise using the JWT authenticator
 - <https://joetanx.github.io/conjur-k8s/>
 
-### Integrate Puppet with Conjur
-- A guide to demonstrate integration of Puppet with Conjur
-- <https://joetanx.github.io/conjur-puppet/>
+### Integrate Ansible Automation Platform with CCP and Conjur
+- A guide to demonstrate integration of Ansible Automation Platform with CCP and Conjur
+- <https://joetanx.github.io/cybr-aap/>
 
 ### Integrate Ansible Core with Conjur
 - A guide to demonstrate integration of Ansible Core with Conjur
 - <https://joetanx.github.io/conjur-ansible/>
 
-### Integrate Ansible Automation Platform with CCP and Conjur
-- A guide to demonstrate integration of Ansible Automation Platform with CCP and Conjur
-- <https://joetanx.github.io/cybr-aap/>
+### Integrate Puppet with Conjur
+- A guide to demonstrate integration of Puppet with Conjur
+- <https://joetanx.github.io/conjur-puppet/>
 
 ## Others
 
