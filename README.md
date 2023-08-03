@@ -2,6 +2,8 @@
 
 ### Conjur Setup
 
+### Conjur Setup
+
 |Topic|Link|
 |---|---|
 |Setup standalone Conjur Enterprise leader on Podman on RHEL 9|<https://github.com/joetanx/setup/blob/main/conjur.md>|
@@ -10,15 +12,32 @@
 
 ### CyberArk Secrets Manager Integrations
 
+|Topic|CyberArk<br>Product|Link|
+|---|---|---|
+|Kubernetes|Conjur Cloud|<https://github.com/joetanx/cjc-k8s/>|
+|GitLab (+Terraform)|Conjur Cloud|<https://github.com/joetanx/cjc-gitlab/>|
+|Kubernetes|Conjur|<https://github.com/joetanx/conjur-k8s/>|
+|Openshift|Conjur|<https://github.com/joetanx/conjur-ocp/>|
+|GitLab|Conjur|<https://github.com/joetanx/conjur-gitlab/>|
+|Jenkins|Conjur|<https://github.com/joetanx/conjur-jenkins/>|
+|Terraform|Conjur|<https://github.com/joetanx/conjur-terraform/>|
+|Ansible Automation Platform|CCP/Conjur|<https://github.com/joetanx/cybr-aap/>|
+|Ansible Core|Conjur|<https://github.com/joetanx/conjur-ansible/>|
+|Puppet|Conjur|<https://github.com/joetanx/conjur-puppet/>|
+
+### Applications
+
 |Topic|Link|
 |---|---|
-|GitLab + Conjur|<https://github.com/joetanx/conjur-gitlab/>|
-|Jenkins + Conjur|<https://github.com/joetanx/conjur-jenkins/>|
-|Kubernetes + Conjur|<https://github.com/joetanx/conjur-k8s/>|
-|Terraform + Conjur|<https://github.com/joetanx/conjur-terraform/>|
-|Ansible Automation Platform + CCP and Conjur|<https://github.com/joetanx/cybr-aap/>|
-|Ansible Core + Conjur|<https://github.com/joetanx/conjur-ansible/>|
-|Puppet + Conjur|<https://github.com/joetanx/conjur-puppet/>|
+|CityApp PHP|<https://github.com/joetanx/cityapp-php/>|
+|Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
+
+### AWS
+
+|Topic|Link|
+|---|---|
+|Using AWS RDS + Secrets Manager with<br>AJAX client + API Gateway + Lambda (Node.js)<br>+ EC2 examples with Python and Node.js|<https://github.com/joetanx/aws-rds-sm/>|
+|Using AWS RDS + IAM Authentication with<br>AJAX client + API Gateway + Lambda (Node.js)<br>+ EC2 examples with Python and Node.js|<https://github.com/joetanx/aws-rds-iam-authn/>|
 
 ### Others
 
@@ -26,5 +45,7 @@
 |---|---|
 |Load Balancing CyberArk Servers|<https://github.com/joetanx/load-balancing-cyberark/>|
 |Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
+|Setup single-node Openshift|<https://github.com/joetanx/setup/blob/main/single-node-openshift.md>|
 |Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
 |Generate a self-signed certificate chain with openssl|<https://github.com/joetanx/setup/blob/main/self-signed-ca.md>|
+|SOC Lab<br>Work in progress|<https://github.com/joetanx/soc-lab/>|
