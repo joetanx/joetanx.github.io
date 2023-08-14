@@ -2,8 +2,6 @@
 
 ### Conjur Setup
 
-### Conjur Setup
-
 |Topic|Link|
 |---|---|
 |Setup standalone Conjur Enterprise leader on Podman on RHEL 9|<https://github.com/joetanx/setup/blob/main/conjur.md>|
