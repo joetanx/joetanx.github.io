@@ -12,18 +12,16 @@
 
 ### CyberArk Secrets Manager Integrations
 
-|Topic|CyberArk<br>Product|Link|
-|---|---|---|
-|Kubernetes|Conjur Cloud|<https://github.com/joetanx/cjc-k8s/>|
-|GitLab (+Terraform)|Conjur Cloud|<https://github.com/joetanx/cjc-gitlab/>|
-|Kubernetes|Conjur|<https://github.com/joetanx/conjur-k8s/>|
-|Openshift|Conjur|<https://github.com/joetanx/conjur-ocp/>|
-|GitLab|Conjur|<https://github.com/joetanx/conjur-gitlab/>|
-|Jenkins|Conjur|<https://github.com/joetanx/conjur-jenkins/>|
-|Terraform|Conjur|<https://github.com/joetanx/conjur-terraform/>|
-|Ansible Automation Platform|CCP/Conjur|<https://github.com/joetanx/cybr-aap/>|
-|Ansible Core|Conjur|<https://github.com/joetanx/conjur-ansible/>|
-|Puppet|Conjur|<https://github.com/joetanx/conjur-puppet/>|
+|Topic|Link|
+|---|---|
+|Kubernetes|cje: <https://github.com/joetanx/conjur-k8s/><br>cjc: <https://github.com/joetanx/conjur-k8s/>|
+|GitLab|cje <https://github.com/joetanx/conjur-gitlab/><br>cjc: <https://github.com/joetanx/cjc-gitlab/>|
+|Openshift|<https://github.com/joetanx/conjur-ocp/>|
+|Jenkins|<https://github.com/joetanx/conjur-jenkins/>|
+|Terraform|<https://github.com/joetanx/conjur-terraform/>|
+|Ansible Automation Platform|<https://github.com/joetanx/cybr-aap/>|
+|Ansible Core|<https://github.com/joetanx/conjur-ansible/>|
+|Puppet|<https://github.com/joetanx/conjur-puppet/>|
 
 ### Applications
 
