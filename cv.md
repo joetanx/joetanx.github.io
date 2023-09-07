@@ -87,11 +87,9 @@ He is a recognized team member who fosters team excellence towards success and m
 ## 3.3. Solutions Consultant • BIT Solution
 ### _July 2016 → April 2017_
 
-#### Solution win highlights
-
 #### Enterprise storage and data protection solution for a Singapore telco
 
-- Designed the storage and backup backend architecture to satisfy multi-site requirements across over 10 datacenters
+- Designed the storage and backup backend architecture to satisfy multi-site requirements across 11 datacenters
 - Orchestrated the migration of over 1,000 servers to the new backend
 
 #### Endpoint security deployment for a Singapore telco
@@ -102,29 +100,39 @@ He is a recognized team member who fosters team excellence towards success and m
 
 #### Private cloud infrastructure deployment for a global voice communication company
 
-- Designed VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture
-- Orchestrated the migration of over 300 servers from OpenStack to the new private cloud
+- Designed the VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture
+- Orchestrated the migration of over 300 servers from OpenStack to the new platform
 
 ## 3.4. Solutions Consultant • Acclivis
 ### _January 2015 → June 2016_
 
-#### Solution win highlights
+#### Active Directory and SharePoint solution for a Singapore government ministry
 
-|Customer|Solution|
-|---|---|
-|Ministry of Health|Deployment and migration of Active Directory and SharePoint solution for over 3,000 users|
-|Linxens|Managed private cloud hosting service for over 100 VMs|
+- Designed Active Directory topology and SharePoint architecture across 10 sites
+- Orchestrated the migration of over 1,000 users to the new platform
+
+#### Managed private cloud hosting service for a microelectronic manufacturing company
+
+- Designed the VMware hyperconverged and software-defined network solution for the hosting backend architecture
+- Orchestrated the migration of over 100 servers to the new platform
 
 ## 3.5. Engineer • Acclivis
 ### _January 2013 → December 2014_
 
-#### Engineer deployment highlights
+#### Active Directory, Microsoft Exchange and file services solution for a Singapore government agency
 
-|Customer|Solution|
-|---|---|
-|Land Transport Authority|Deployment and migration of Microsoft file services, Active Directory and Exchange for over 6,000 users|
-|Sentosa Development Corporation|Deployment and migration of self-hosted private cloud infrastructure for over 100 servers|
-|Richland Logistics|Deployment and migration of Microsoft Exchange for over 300 users|
+- Designed Active Directory topology, Microsoft Exchange and file services architecture across 7 sites
+- Migrated over 6,000 users from Novell e-Directory to Active Directory and from Lotus Domino to Exchange
+
+#### Private cloud infrastructure deployment for a Singapore government agency
+
+- Designed the Nutanix hyperconverged and software-defined network solution for the self-hosted private cloud architecture
+- Orchestrated the migration of over 100 servers from OpenStack to the new platform
+
+#### Microsoft Exchange solution for an international shipping logistics company
+
+- Designed the Microsoft Exchange architecture to satisfy high availability and disaster recovery objectives
+- Migrated over 300 users to the new platform
 
 # 4. Education
 
