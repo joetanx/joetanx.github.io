@@ -63,18 +63,26 @@ He is a recognized team member who fosters team excellence towards success and m
 - Established strong partnership with Trend Micro and develop company as Trend Micro Authorized Service Provider
 - Established company emergence in government sector and develop company as an Expenditure and Procurement Policies Unit (EPPU) supplier with S7 financial capacity
 
-#### Solution win highlights
+#### Regional endpoint security deployment for an international shipping logistics company
 
-|Customer|Solution|
-|---|---|
-|Changi Airport Group|Self-hosted private cloud infrastructure and comprehensive security solution for the Lease Management System|
-|Jewel Changi Airport|Corporate network and workforce security solution|
-|American President Lines|Endpoint security migration for 5,000 clients across 30 locations to SaaS|
-|Essilor|Secure remote workforce virtual desktop solution for 1,000 regional users|
-|ST Logistics|Air-gapped self-hosted endpoint security solution for over 800 clients|
-|Urban Redevelopment Authority|Deployment and migration for public facing web application intrusion prevention solution|
-|Asia Pacific Exchange|Deployment and migration of email infrastructure and security solution for over 500 users|
-|MSI Global/High Speed Rail (Subsidiaries of LTA)|Deployment and migration of private office productivity cloud solution for over 300 users|
+- Orchestrated the migration of over 5,000 clients across 30 locations from self-hosted to SaaS endpoint security platform
+- Enhanced security policy enforcement to align with Trend Micro best practices
+
+#### Intrusion prevention system for web applications providing public services for a Singapore government agency
+
+- Orchestrated the migration of public facing services to new IPS
+- Engineered the integration of the frontend IPS to the government's intricate networking topology
+- Conducted security policy review and fine-tuning to satisfy the government's stringnent security policies on exposing services to public internet
+
+#### Cloud workload migration for a Singapore telco
+
+- Engineered multi/hybrid-cloud architecture between AWS, Azure and on-premise datacenters
+- Orchestrated the migration of over 300 servers from self-hosted infrastructure to multi-cloud environment across AWS and Azure
+
+#### Office productivity cloud migration for government-linked subsidiaries 
+
+- Orchestrated the migration of over 300 users from self-hosted Active Directory, Exchange and SharePoint to Microsoft 365
+- Engineered hybrid-cloud architecture between Azure and on-premise datacenter
 
 ## 3.3. Solutions Consultant • BIT Solution
 ### _July 2016 → April 2017_
