@@ -39,7 +39,7 @@ He is a recognized team member who fosters team excellence towards success and m
 #### PAM in Critical and Sensitive Information Infrastructure (CII/SII) environments for various government ministries and agencies
 
 - Engineered and integrated numerous major deployments cumulating to thousands of privileged users
-- Designed bespoke architecture to fulfil the business continuity planning (BCP) and compliance retention requirements for each disparate deployment scenario
+- Designed bespoke architecture to satisfy the business continuity planning (BCP) and compliance retention requirements for each disparate deployment scenario
 - Integrated solution in various environments to interoperate with the Government Furnished Equipment (GFE) such as Thales HSM, RSA Authentication Server, F5 ADC, private cloud virtualization
 
 #### Pioneering Conjur secrets manager in the Singapore government
@@ -89,11 +89,21 @@ He is a recognized team member who fosters team excellence towards success and m
 
 #### Solution win highlights
 
-|Customer|Solution|
-|---|---|
-|Singtel|Deployment and migration of enterprise storage and data protection solution for over 1,000 servers|
-|Singtel|Deployment and migration of endpoint security solution over 9,000 clients|
-|GlobalRoam Group|Deployment and migration of self-hosted private cloud infrastructure from OpenStack to VMware for over 300 servers|
+#### Enterprise storage and data protection solution for a Singapore telco
+
+- Designed the storage and backup backend architecture to satisfy multi-site requirements across over 10 datacenters
+- Orchestrated the migration of over 1,000 servers to the new backend
+
+#### Endpoint security deployment for a Singapore telco
+
+- Designed the self-hosted endpoint security architecture to satisfy high availability and disaster recovery objectives
+- Orchestrated the migration of over 9,000 clients across 20 locations to the new endpoint security platform
+- Enhanced security policy enforcement to align with Trend Micro best practices
+
+#### Private cloud infrastructure deployment for a global voice communication company
+
+- Designed VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture
+- Orchestrated the migration of over 300 servers from OpenStack to the new private cloud
 
 ## 3.4. Solutions Consultant • Acclivis
 ### _January 2015 → June 2016_
