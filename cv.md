@@ -18,7 +18,7 @@ He is a recognized team member who fosters team excellence towards success and m
 |---|---|
 |Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020|
 |Cloud and DevOps|• AWS Certified Solutions Architect – Professional, 2021<br>• Microsoft Certified: Azure Solutions Architect Expert, 2023<br>• Microsoft Certified: Azure Administrator Associate, 2023<br>• Google Cloud Certified Professional Cloud Architect, 2023<br>• Certified Kubernetes Application Developer (CKAD), 2021|
-|Operating System|• Red Hat Certified Engineer (RHCE), 2021<br>• Red Hat Certified System Administrator (RHCSA), 2021<br>• Microsoft Certified Professional, 2015|
+|Operating Systems|• Red Hat Certified Engineer (RHCE), 2021<br>• Red Hat Certified System Administrator (RHCSA), 2021<br>• Microsoft Certified Professional, 2015|
 |Network|• Cisco Certified Network Associate (CCNA), 2019<br>• Sophos Certified Engineer, 2019<br>• Fortinet NSE1 + NSE2, 2018<br>• Huawei Specialist Certification, HCS-Pre-sales-WLAN, 2015|
 |Storage|• Acronis Certified Engineer, 2017<br>• Technology Architect, VNX Solutions Specialist Version 8.0 (EMCTA), 2015|
 
