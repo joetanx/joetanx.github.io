@@ -65,24 +65,24 @@ He is a recognized team member who fosters team excellence towards success and m
 
 #### Regional endpoint security deployment for an international shipping logistics company
 
-- Orchestrated the migration of over 5,000 clients across 30 locations from self-hosted to SaaS endpoint security platform
+- Migrated over 5,000 clients across 30 locations from self-hosted to SaaS endpoint security platform
 - Enhanced security policy enforcement to align with Trend Micro best practices
 
 #### Intrusion prevention system for web applications providing public services for a Singapore government agency
 
-- Orchestrated the migration of public facing services to new IPS
-- Engineered the integration of the frontend IPS to the government's intricate networking topology
+- Designed the integration of the frontend IPS to the government's intricate networking topology
+- Migrated the public facing services to new IPS
 - Conducted security policy review and fine-tuning to satisfy the government's stringnent security policies on exposing services to public internet
 
 #### Cloud workload migration for a Singapore telco
 
-- Engineered multi/hybrid-cloud architecture between AWS, Azure and on-premise datacenters
-- Orchestrated the migration of over 300 servers from self-hosted infrastructure to multi-cloud environment across AWS and Azure
+- Designed multi/hybrid-cloud architecture between AWS, Azure and on-premise datacenters
+- Migrated over 300 servers from self-hosted infrastructure to multi-cloud environment across AWS and Azure
 
 #### Office productivity cloud migration for government-linked subsidiaries 
 
-- Orchestrated the migration of over 300 users from self-hosted Active Directory, Exchange and SharePoint to Microsoft 365
-- Engineered hybrid-cloud architecture between Azure and on-premise datacenter
+- Designed hybrid-cloud architecture between Azure and on-premise datacenter
+- Migrated over 300 users from self-hosted Active Directory, Exchange and SharePoint to Microsoft 365
 
 ## 3.3. Solutions Consultant • BIT Solution
 ### _July 2016 → April 2017_
@@ -90,18 +90,18 @@ He is a recognized team member who fosters team excellence towards success and m
 #### Enterprise storage and data protection solution for a Singapore telco
 
 - Designed the storage and backup backend architecture to satisfy multi-site requirements across 11 datacenters
-- Orchestrated the migration of over 1,000 servers to the new backend
+- Migrated over 1,000 servers to the new backend
 
 #### Endpoint security deployment for a Singapore telco
 
 - Designed the self-hosted endpoint security architecture to satisfy high availability and disaster recovery objectives
-- Orchestrated the migration of over 9,000 clients across 20 locations to the new endpoint security platform
+- Migrated over 9,000 clients across 20 locations to the new endpoint security platform
 - Enhanced security policy enforcement to align with Trend Micro best practices
 
 #### Private cloud infrastructure deployment for a global voice communication company
 
 - Designed the VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture
-- Orchestrated the migration of over 300 servers from OpenStack to the new platform
+- Migrated over 300 servers from OpenStack to the new platform
 
 ## 3.4. Solutions Consultant • Acclivis
 ### _January 2015 → June 2016_
@@ -109,12 +109,12 @@ He is a recognized team member who fosters team excellence towards success and m
 #### Active Directory and SharePoint solution for a Singapore government ministry
 
 - Designed Active Directory topology and SharePoint architecture across 10 sites
-- Orchestrated the migration of over 1,000 users to the new platform
+- Migrated over 1,000 users to the new platform
 
 #### Managed private cloud hosting service for a microelectronic manufacturing company
 
 - Designed the VMware hyperconverged and software-defined network solution for the hosting backend architecture
-- Orchestrated the migration of over 100 servers to the new platform
+- Migrated over 100 servers to the new platform
 
 ## 3.5. Engineer • Acclivis
 ### _January 2013 → December 2014_
@@ -127,7 +127,7 @@ He is a recognized team member who fosters team excellence towards success and m
 #### Private cloud infrastructure deployment for a Singapore government agency
 
 - Designed the Nutanix hyperconverged and software-defined network solution for the self-hosted private cloud architecture
-- Orchestrated the migration of over 100 servers from OpenStack to the new platform
+- Migrated over 100 servers from OpenStack to the new platform
 
 #### Microsoft Exchange solution for an international shipping logistics company
 
