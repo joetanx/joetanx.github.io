@@ -50,8 +50,8 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 #### Subject Matter Expert for Conjur in ASEAN
 
-•	**Cloud and DevOps Expertise:** Provided technical expertise in the ASEAN region, specializing in cloud and DevOps.
-•	**Community Outreach:** Authored integration and design architecture articles on AWS Serverless, Kubernetes/Openshift, Terraform, Ansible, Puppet, GitLab, Jenkins, and Nginx/Keepalived clustering ([Read more](https://github.com/joetanx)).
+-	**Cloud and DevOps Expertise:** Provided technical expertise in the ASEAN region, specializing in cloud and DevOps.
+-	**Community Outreach:** Authored integration and design architecture articles on AWS Serverless, Kubernetes/Openshift, Terraform, Ansible, Puppet, GitLab, Jenkins, and Nginx/Keepalived clustering ([Read more](https://github.com/joetanx)).
 
 ## 3.2. Solutions Director • Ascenxus
 ### _April 2017 → May 2020_
