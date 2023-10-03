@@ -10,9 +10,9 @@ CISSP • CISA • OSCP
 
 # 1. Profile
 
-Joe Tan is a solution architect with over 10 years of experience in the IT industry in helping organizations protect their data and applications. With his driven and self-motivated attitude, he is continually updating himself with multi-disciplinary skillset across several technology domains such as cloud, DevOps and cybersecurity.
+Joe Tan is a dynamic Solution Architect with over 10 years of experience in the IT industry, specializing in safeguarding data and applications for organizations. Driven and self-motivated, Joe continuously enhances his multi-disciplinary skillset, spanning across diverse technology domains such as cloud, DevOps, and cybersecurity.
 
-He is a recognized team member who fosters team excellence towards success and mentoring new team members. He has a proven track record of success for positioning technical wins to sell complex solutions into government and large enterprise customers.
+Recognized as a valuable team member, Joe excels in fostering team excellence, mentoring new members, and has a proven track record of successfully positioning technical wins for the sale of complex solutions to government and large enterprise customers.
 
 # 2. Certifications
 
@@ -29,110 +29,110 @@ He is a recognized team member who fosters team excellence towards success and m
 ## 3.1. Senior Solutions Engineer • CyberArk
 ### _May 2020 → Present_
 
-#### Privileged access management (PAM) common service for the Singapore Government Commercial Cloud (GCC)
+#### Privileged Access Management (PAM) for Singapore Government Commercial Cloud (GCC)
 
-- Pioneered the common service guided its growth to over 1,700 users
-- Engineered the multi-cloud (AWS, Azure and Google Cloud) PAM architecture to satisfy user and workload requirements across GCC cloud service providers (CSPs)
-- Enhanced the GCC PAM implementation to provide support for cloud-native integrations on cloud console access and cloud-native databases
-- Directed the customer success to provide assurance that CyberArk best practices are enforced on the common service
+- **Pioneered Scalable Solutions:** Guided the growth of a common service to over 1,700 users.
+- **Multi-Cloud PAM Architecture:** Engineered robust architecture across AWS, Azure, and Google Cloud for GCC.
+- **Cloud-Native Enhancements:** Expanded GCC PAM to support cloud-native integrations for console access and databases.
+- **Customer Success Leadership:** Directed customer success efforts, ensuring strict adherence to CyberArk best practices.
 
-#### PAM in Critical and Sensitive Information Infrastructure (CII/SII) environments for various government ministries and agencies
+#### PAM in Critical and Sensitive Information Infrastructure (CII/SII) for Government Ministries
 
-- Engineered and integrated numerous major deployments cumulating to thousands of privileged users
-- Designed bespoke architecture to satisfy the business continuity planning (BCP) and compliance retention requirements for each disparate deployment scenario
-- Integrated solution in various environments to interoperate with the Government Furnished Equipment (GFE) such as Thales HSM, RSA Authentication Server, F5 ADC, private cloud virtualization
+- **Strategic Deployments:** Engineered and integrated major deployments, serving thousands of privileged users.
+- **Bespoke Architecture:** Designed tailored architectures for Business Continuity Planning (BCP) and compliance retention.
+- **Government Furnished Equipment Integration:** Integrated solutions with Government Furnished Equipment (GFE), including Thales HSM, RSA Authentication Server, F5 ADC, and private cloud virtualization.
 
-#### Pioneering Conjur secrets manager in the Singapore government
+#### Pioneering Conjur Secrets Manager in the Singapore Government
 
-- Orchestrated strategic pioneer wins for Conjur in the government and defence sector
-- Self-initiated in-depth competitor product analysis to gather insights leading to technical wins
-- Reversed strong headwind positions originally held by competitor into favourable customer decisions to adopt CyberArk’s emerging product
+- **Strategic Wins:** Orchestrated key wins for Conjur in the government and defense sector.
+- **Competitor Analysis:** Conducted in-depth competitor product analysis, leading to pivotal technical wins.
+- **Market Perception Reversal:** Successfully shifted market perception in favor of CyberArk's emerging product.
 
-#### Subject matter expert for Conjur in the ASEAN region
+#### Subject Matter Expert for Conjur in ASEAN
 
-- Provide technical expertise on cloud and DevOps domain for ASEAN solutions engineers
-- Authored integration and design architecture articles on AWS Serverless, Kubernetes/Openshift, Terraform, Ansible, Puppet, GitLab, Jenkins and Nginx/Keepalived clustering (Read more: https://github.com/joetanx)
+•	**Cloud and DevOps Expertise:** Provided technical expertise in the ASEAN region, specializing in cloud and DevOps.
+•	**Community Outreach:** Authored integration and design architecture articles on AWS Serverless, Kubernetes/Openshift, Terraform, Ansible, Puppet, GitLab, Jenkins, and Nginx/Keepalived clustering ([Read more](https://github.com/joetanx)).
 
 ## 3.2. Solutions Director • Ascenxus
 ### _April 2017 → May 2020_
 
-#### Business development
+#### Business Development
 
-- Developed and implemented sales governance to lay out repeatable sales strategies in moving sales prospects to closed customers
-- Developed and implemented Customer Relationship Management (CRM) for sales pipeline management and visibility and reporting of sales forecast
-- Established strong partnership with Trend Micro and develop company as Trend Micro Authorized Service Provider
-- Established company emergence in government sector and develop company as an Expenditure and Procurement Policies Unit (EPPU) supplier with S7 financial capacity
+- **Sales Governance:** Implemented sales governance, establishing repeatable sales strategies.
+- **CRM Implementation:** Developed and implemented Customer Relationship Management (CRM) for sales pipeline management and visibility.
+- **Strategic Partnerships:** Formed strong partnerships with Trend Micro and became a Trend Micro Authorized Service Provider.
+- **Government Sector Emergence:** Established company presence in the government sector, becoming an Expenditure and Procurement Policies Unit (EPPU) supplier with S7 financial capacity.
 
-#### Regional endpoint security deployment for an international shipping logistics company
+#### Regional Endpoint Security Deployment for International Shipping Logistics
 
-- Migrated over 5,000 clients across 30 locations from self-hosted to SaaS endpoint security platform
-- Enhanced security policy enforcement to align with Trend Micro best practices
+- **Large-Scale Migration:** Successfully migrated over 5,000 clients across 30 locations to a SaaS endpoint security platform.
+- **Security Enhancement:** Improved security policy enforcement to align with Trend Micro best practices.
 
-#### Intrusion prevention system for web applications providing public services for a Singapore government agency
+#### Intrusion Prevention System for Web Applications (Government Agency)
 
-- Designed the integration of the frontend IPS to the government's intricate networking topology
-- Migrated the public facing services to new IPS
-- Conducted security policy review and fine-tuning to satisfy the government's stringnent security policies on exposing services to public internet
+- **Securing Public Facing Services:** Protected web applications that are providing services to citizens and members of the public.
+- **Intricate Integration:** Designed the integration of the frontend IPS to the government's intricate networking topology.
+- **Security Policy Review:** Conducted security policy review and fine-tuning to meet stringent government security policies.
 
-#### Cloud workload migration for a Singapore telco
+#### Cloud Workload Migration for Singapore Telco
 
-- Designed multi/hybrid-cloud architecture between AWS, Azure and on-premise datacenters
-- Migrated over 300 servers from self-hosted infrastructure to multi-cloud environment across AWS and Azure
+- **Multi/Hybrid-Cloud Architecture:** Designed a multi/hybrid-cloud architecture spanning AWS, Azure, and on-premise data centers.
+- **Country-wide Migration:** Migrated over 300 servers from self-hosted infrastructure to a multi-cloud environment.
 
-#### Office productivity cloud migration for government-linked subsidiaries 
+#### Office Productivity Cloud Migration for Government-Linked Subsidiaries 
 
-- Designed hybrid-cloud architecture between Azure and on-premise datacenter
-- Migrated over 300 users from self-hosted Active Directory, Exchange and SharePoint to Microsoft 365
+- **Hybrid-Cloud Architecture:** Designed a hybrid-cloud architecture between Azure and on-premise data centers.
+- **Large-Scale Migration:** Successfully migrated over 300 users from self-hosted Active Directory, Exchange, and SharePoint to Microsoft 365.
 
 ## 3.3. Solutions Consultant • BIT Solution
 ### _July 2016 → April 2017_
 
-#### Enterprise storage and data protection solution for a Singapore telco
+#### Enterprise Storage and Data Protection for Singapore Telco
 
-- Designed the storage and backup backend architecture to satisfy multi-site requirements across 11 datacenters
-- Migrated over 1,000 servers to the new backend
+- **Robust Architecture:** Designed the storage and backup backend architecture to meet multi-site requirements across 11 data centers.
+- **Large-Scale Migration:** Migrated over 1,000 servers to the new backend.
 
-#### Endpoint security deployment for a Singapore telco
+#### Endpoint Security Deployment for Singapore Telco
 
-- Designed the self-hosted endpoint security architecture to satisfy high availability and disaster recovery objectives
-- Migrated over 9,000 clients across 20 locations to the new endpoint security platform
-- Enhanced security policy enforcement to align with Trend Micro best practices
+- **Scale-out Architecture:** Designed the self-hosted endpoint security architecture for high availability.
+- **Large-Scale Migration:** Migrated over 9,000 clients across 20 locations to the new endpoint security platform.
+- **Security Enhancement:** Enhanced security policy enforcement aligning with Trend Micro best practices.
 
-#### Private cloud infrastructure deployment for a global voice communication company
+#### Private Cloud Infrastructure Deployment for Global Voice Communication Company
 
-- Designed the VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture
-- Migrated over 300 servers from OpenStack to the new platform
+- **Cutting-Edge Solution:** Designed the VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture.
+- **Regional Migration:** Migrated over 300 servers from regional sites to the new platform.
 
 ## 3.4. Solutions Consultant • Acclivis
 ### _January 2015 → June 2016_
 
-#### Active Directory and SharePoint solution for a Singapore government ministry
+#### Active Directory and SharePoint Solution for Singapore Government Ministry
 
-- Designed Active Directory topology and SharePoint architecture across 10 sites
-- Migrated over 1,000 users to the new platform
+- **Strategic Design:** Designed Active Directory topology and SharePoint architecture across 10 sites.
+- **Country-wide Migration:** Migrated over 1,000 users to the new platform.
 
-#### Managed private cloud hosting service for a microelectronic manufacturing company
+#### Managed Private Cloud Hosting for Microelectronic Manufacturing Company
 
-- Designed the VMware hyperconverged and software-defined network solution for the hosting backend architecture
-- Migrated over 100 servers to the new platform
+- **Cutting-Edge Solution:** Designed the VMware hyperconverged and software-defined network solution for the hosting backend architecture.
+- **Successful Migration:** Migrated over 100 servers to the new platform.
 
 ## 3.5. Engineer • Acclivis
 ### _January 2013 → December 2014_
 
-#### Active Directory, Microsoft Exchange and file services solution for a Singapore government agency
+#### Active Directory, Microsoft Exchange, and File Services for Singapore Government Agency
 
-- Designed Active Directory topology, Microsoft Exchange and file services architecture across 7 sites
-- Migrated over 6,000 users from Novell e-Directory to Active Directory and from Lotus Domino to Exchange
+- **Strategic Design:** Designed Active Directory topology, Microsoft Exchange, and file services architecture across 7 sites.
+- **Large-Scale Migration:** Migrated over 6,000 users from Novell e-Directory to Active Directory and from Lotus Domino to Exchange.
 
-#### Private cloud infrastructure deployment for a Singapore government agency
+#### Private Cloud Infrastructure Deployment for Singapore Government Agency
 
-- Designed the Nutanix hyperconverged and software-defined network solution for the self-hosted private cloud architecture
-- Migrated over 100 servers from OpenStack to the new platform
+- **Cutting-Edge Solution:** Designed the Nutanix hyperconverged and software-defined network solution for the self-hosted private cloud architecture.
+- **Successful Migration:** Migrated over physical 100 servers to the new platform.
 
-#### Microsoft Exchange solution for an international shipping logistics company
+#### Microsoft Exchange Solution for International Shipping Logistics Company
 
-- Designed the Microsoft Exchange architecture to satisfy high availability and disaster recovery objectives
-- Migrated over 300 users to the new platform
+- **Robust Design:** Designed the Microsoft Exchange architecture for high availability.
+- **Regional Migration:** Migrated over 300 regional users to the new platform.
 
 # 4. Education
 
