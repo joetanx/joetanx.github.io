@@ -50,8 +50,8 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 #### Subject Matter Expert for Conjur in ASEAN
 
-- **Specialized and Certified in Cloud and DevOps:** Proven technical skillset in major cloud service providers (AWS, Azure, Google), containerization platforms (Kubernetes, Openshift), configuration orchestration tools (Terraform, Ansible, Puppet) and CI/CD pipeline tool (GitLab, Jenkins).
-- **Regional Cloud and DevOps Solution Coverage:** Spearheaded regional wins for CyberArk's secrets management solution with collaboration across product management, in-country solutions engineers and customers.
+- **Specialized and Certified in Cloud and DevOps:** Proven technical skillset in major cloud service providers (AWS, Azure, Google), containerization platforms (Kubernetes, Openshift), configuration orchestration tools (Terraform, Ansible, Puppet) and CI/CD pipeline tools (GitLab, Jenkins).
+- **Regional Cloud and DevOps Solution Coverage:** Enabled regional wins for CyberArk's secrets management solution with collaboration across product management, in-country solutions engineers and customers.
 -	**Community Outreach:** Authored integration and design architecture articles on AWS Serverless, Kubernetes, Openshift, Terraform, Ansible, Puppet, GitLab, Jenkins, and Nginx/Keepalived clustering ([Read more on GitHub (joetanx)](https://github.com/joetanx)).
 
 ## 3.2. Solutions Director • Ascenxus
