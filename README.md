@@ -37,6 +37,11 @@
 |Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
 |Setup single-node Openshift|<https://github.com/joetanx/setup/blob/main/single-node-openshift.md>|
 |Setup GitLab community edition|<https://github.com/joetanx/setup/blob/main/gitlab.md>|
+|Setup Keycloak|<https://github.com/joetanx/setup/blob/main/keycloak.md>|
 |Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
-|Generate a self-signed certificate chain with openssl|<https://github.com/joetanx/lab-certs/>|
+|Setup PostgreSQL database|<https://github.com/joetanx/setup/blob/main/postgres.md>|
+|Generate self-signed certificate chain with openssl|<https://github.com/joetanx/lab-certs/>|
+|Hashicorp Vault and Boundary|<https://github.com/joetanx/hashicorp>|
+|Delinea Secret Server|<https://github.com/joetanx/delinea-secret-server>|
+|Teleport|<https://github.com/joetanx/teleport>|
 |SOC Lab<br>Work in progress|<https://github.com/joetanx/soc-lab/>|
