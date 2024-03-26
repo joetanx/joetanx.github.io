@@ -10,4 +10,4 @@ Public Sector, ASEAN
 
 🌐: https://sg.linkedin.com/in/joetanx/
 
-![qr-code](https://github.com/joetanx/joetanx.github.io/assets/90442032/e7316d25-e6c7-4d51-8fc0-4338aa394208)
+![contact](https://github.com/joetanx/joetanx.github.io/assets/90442032/42f82d50-46f0-4b6a-b5f6-5508ad23d622)
