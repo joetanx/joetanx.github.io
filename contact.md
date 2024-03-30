@@ -6,7 +6,7 @@ Public Sector, ASEAN
 
 📱: +65 8157 5097
 
-✉: tjeo@fortinet.com
+✉: tjoe@fortinet.com
 
 🌐: https://sg.linkedin.com/in/joetanx/
 
