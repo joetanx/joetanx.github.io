@@ -18,7 +18,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 |Domain|Certificate|
 |---|---|
-|Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020|
+|Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020<br>• Fortinet Certified Solution Specialist (FCSS) Security Operations, 2024<br>• Fortinet Certified Professional (FCP) Security Operations, 2024|
 |Cloud and DevOps|• AWS Certified: Solutions Architect – Professional, 2021<br>• Microsoft Certified: Azure Solutions Architect Expert, 2023<br>• Microsoft Certified: Azure Administrator Associate, 2023<br>• Google Cloud Certified: Professional Cloud Architect, 2023<br>• HashiCorp Certified: Terraform Associate (003), 2023<br>• Certified Kubernetes Application Developer (CKAD), 2021|
 |Operating Systems|• Red Hat Certified Engineer (RHCE), 2021<br>• Red Hat Certified System Administrator (RHCSA), 2021<br>• Microsoft Certified Professional, 2015|
 |Network|• Cisco Certified Network Associate (CCNA), 2019<br>• Sophos Certified Engineer, 2019<br>• Fortinet NSE1 + NSE2, 2018<br>• Huawei Specialist Certification, HCS-Pre-sales-WLAN, 2015|
@@ -26,8 +26,17 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 # 3. Experience
 
-## 3.1. Senior Solutions Engineer • CyberArk
-### _May 2020 → Present_
+## 3.1. Regional Solutions Architect, Public Sector • Fortinet
+### _March 2024 → Present_
+
+#### Solution Strategy in the Public Sector
+
+- **Secure Networking Architecture:** Designed and tailored architectures to implement Fortinet secure networking, optimizing performance while maintaining stringent security standards.
+- **Modern Application Security:** Designed scalable and resilient application security architectures that leverage Fortinet's Web Application and API Protection solutions to protect mission-critical applications against a wide range of cyber attacks.
+- **AI-Driven Security Operations:** Designed AI-driven security operations strategies to enhance threat detection, incident response, and security orchestration capabilities that improve overall efficiency and reduce Mean Time to Acknowledge and Mean Time to Detect.
+
+## 3.2. Senior Solutions Engineer • CyberArk
+### _May 2020 → March 2024_
 
 #### Privileged Access Management (PAM) for Singapore Government Commercial Cloud (GCC)
 
@@ -54,7 +63,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 - **Regional Cloud and DevOps Solution Coverage:** Enabled regional wins for CyberArk's secrets management solution with collaboration across product management, in-country solutions engineers and customers.
 -	**Community Outreach:** Authored integration and design architecture articles on AWS Serverless, Kubernetes, Openshift, Terraform, Ansible, Puppet, GitLab, Jenkins, and Nginx/Keepalived clustering ([Read more on GitHub (joetanx)](https://github.com/joetanx)).
 
-## 3.2. Solutions Director • Ascenxus
+## 3.3. Solutions Director • Ascenxus
 ### _April 2017 → May 2020_
 
 #### Business Development
@@ -85,7 +94,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 - **Hybrid-Cloud Architecture:** Designed a hybrid-cloud architecture between Azure and on-premise data centers.
 - **Large-Scale Migration:** Successfully migrated over 300 users from self-hosted Active Directory, Exchange, and SharePoint to Microsoft 365.
 
-## 3.3. Solutions Consultant • BIT Solution
+## 3.4. Solutions Consultant • BIT Solution
 ### _July 2016 → April 2017_
 
 #### Enterprise Storage and Data Protection for Singapore Telco
@@ -104,7 +113,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 - **Cutting-Edge Solution:** Designed the VMware hyperconverged and software-defined network solution for the self-hosted private cloud architecture.
 - **Regional Migration:** Migrated over 300 servers from regional sites to the new platform.
 
-## 3.4. Solutions Consultant • Acclivis
+## 3.5. Solutions Consultant • Acclivis
 ### _January 2015 → June 2016_
 
 #### Active Directory and SharePoint Solution for Singapore Government Ministry
@@ -117,7 +126,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 - **Cutting-Edge Solution:** Designed the VMware hyperconverged and software-defined network solution for the hosting backend architecture.
 - **Successful Migration:** Migrated over 100 servers to the new platform.
 
-## 3.5. Engineer • Acclivis
+## 3.6. Engineer • Acclivis
 ### _January 2013 → December 2014_
 
 #### Active Directory, Microsoft Exchange, and File Services for Singapore Government Agency
