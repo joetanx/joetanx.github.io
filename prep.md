@@ -1,113 +1,153 @@
-## GCC PIM Vault failure
+## 1. GCC PIM Vault failure
 
-### Applicable questions
+### 1.1. Applicable questions
 
 - Describe a situation in which you were able to use persuasion to successfully convince someone to see things your way.
 - Describe a time when you were faced with a stressful situation that demonstrated your coping skills.
 - Give me a specific example of a time when you used good judgment and logic in solving a problem.
 
-### Situation
+### 1.2. Situation
 
 - Tenants of the GCC PIM service were reporting inability to login to the system
 - Investigation revealed that the Vault has crashed
 
-### Task
+### 1.3. Task
 
 - Objective was to rescue existing Vault service
 - Vault has an embedded database that requires L3 support expertise to troubleshoot
 - Troubleshooting the embedded database is intrincate and can lead to extended down time, unable to forecast estimated time to restore service
 
-### Action
+### 1.4. Action
 
 - Identified that the cause of failure was the platform quantity that was configured by customer beyond the supported limit
 - Convince both customer and internal support team to restore from EBS snapshot instead of trying to salvage a service that would like fail again even if it is restored
 - Orchestrated communications to stakeholders such as sales and customer and CyberArk senior management - provided periodic current status and next step updates of the triage
 
-### Result
+### 1.5. Result
 
 - GCC PIM service was restored within 4 hours
 - Some data was lost for the duration until the point of snapshot - further post incident actions taken to work with affected tenants
 - Stakeholder confidence in CyberArk was retained because of the swift decision and recovery
 
-## Moving GCC to PrivCloud and VPC endpoint
+## 2. GCC PIM Operational Governance
 
-### Applicable questions
-
-
-
-### Situation
+### 2.1. Applicable questions
 
 
 
-### Task
+### 2.2. Situation
+
+- GovTech advoacates IaC
+- CyberArk software doesn't work well with auto-scaling and IaC
+- Management did not see this as priority: direction is to ask GovTech to work it out themselves
+
+### 2.3. Task
 
 
 
-### Action
+### 2.4. Action
+
+- AWS Auto Scaling to dynamically scale CyberArk instances based on demand
+  - Instance level use **CloudFormation** deploy CyberArk components
+  - **AWS Container Registry** to host CyberArk Conjur and HTML5 Gateway images
+  - Guest level use Amazon EC2 Auto Scaling **lifecycle hooks** to:
+    - Deploy custom scripts to register components to vault
+    - Clean-up actions with lambda to trigger on instance termination to clean-up vault records
+- **CloudTrail** to monitor configuration actions on the CyberArk deployments
+- **SSM** to automate patch management of PAM Windows OS and Conjur Linux OS
+- **CloudWatch Logs** to aggregate PAM and Conjur logs - early warning if any automated activities failed
+- **CloudWatch Metrics** to monitor PAM and Conjur utilization - provide insights to GovTech management on the central service
+
+### 2.5. Result
 
 
 
-### Result
+## 3. Kubernetes extension for CyberArk PAM
 
-## GCC CyberArk IaC and auto scaling workaround
-
-### Applicable questions
+### 3.1. Applicable questions
 
 
 
-### Situation
+### 3.2. Situation
+
+- Several agencies, including GovTech, enquired on secure acces to Kubernetes, which CyberArk does not have
+- Teleport was actively engaging customers and advertising about their capabilities on secure Kubernetes access
+- At risk: GovTech swapping out CyberArk PAM common services
+
+### 3.3. Task
+
+- Achieve a viable solution
+  - Option A: using Linux jumphost method - works out of the box, have session recording, but credentials embedded on the Linux jumphost
+  - Option B: develop custom extension - long development timeline, but fulfil everything
+
+### 3.4. Action
+
+- Extension development
+  - Dissected Teleport to figure out how they did it
+  - Self-learned C# so that the logic can be implemented on CyberArk
+  - Wrote Kubernetes extensions for access credential management and session management - **published on GitHub**
+- Stakeholder management
+  - Sales and customer: manage timeline and expections while working on the extensions
+  - Product management: review extensions and obtain approval to publish
+
+### 3.5. Result
+
+- Customer renewed CyberArk PAM for another 2 years
+- 2,000+ users, 20+ agencies
+
+## 4. Conjur SME
+
+### 4.1. Applicable questions
 
 
 
-### Task
+### 4.2. Situation
 
 
 
-### Action
+### 4.3. Task
 
 
 
-### Result
+### 4.4. Action
 
-## Kubernetes extension for CyberArk PAM
+- consistent perserverance over 4 years in CyberArk
+- various articles on ansible, puppet, kubernetes, openshift, gitlab, jenkins, aws serverless (lambda, api gateway, RDS)
 
-### Applicable questions
+### 4.5. Result
 
+- IRAS, DSTA and JTC Conjur win
+- APJ SME: winning cases in India, ANZ, Vietnam, Taiwan
 
+## 5. Public Sector Events
 
-### Situation
-
-
-
-### Task
-
-
-
-### Action
+### 5.1. Applicable questions
 
 
 
-### Result
+### 5.2. Situation
 
-## DSTA and JTC Conjur win
+- Cost cutting: management considering to reduce marketing event and focus on the annual flagship Impact event
+- AWS Public Sector Day and NCS Red Hat joint symposium were at risk of being aborted
 
-### Applicable questions
+### 5.3. Task
 
+- Maintain CyberArk presence and engagement level with SG Gov't customers
 
+### 5.4. Action
 
-### Situation
+- Stakeholder management
+  - Sales: tabulate GCC and NCS revenue and forecast potential revenue to justify event sponsorship
+  - Market: identify speaking topic
+  - SDR: Qualify lead and support to translate leads to opportunities
 
+### 5.5. Result
 
-
-### Task
-
-
-
-### Action
-
-
-
-### Result
+- Represented CyberArk as speaker for AWS Public Sector Day and NCS Red Hat joint symposium
+- Over 100 leads generated in the 2 events
+- Translated to sales:
+  - NDI: 250 user onboarding to GCC, approx 500k revenue
+  - IRAS, DSTA and JTC Conjur win, total up to 2 mil revenue
 
 ## Work in progress
 
