@@ -29,6 +29,86 @@
 - Some data was lost for the duration until the point of snapshot - further post incident actions taken to work with affected tenants
 - Stakeholder confidence in CyberArk was retained because of the swift decision and recovery
 
+## Moving GCC to PrivCloud and VPC endpoint
+
+### Applicable questions
+
+
+
+### Situation
+
+
+
+### Task
+
+
+
+### Action
+
+
+
+### Result
+
+## GCC CyberArk IaC and auto scaling workaround
+
+### Applicable questions
+
+
+
+### Situation
+
+
+
+### Task
+
+
+
+### Action
+
+
+
+### Result
+
+## Kubernetes extension for CyberArk PAM
+
+### Applicable questions
+
+
+
+### Situation
+
+
+
+### Task
+
+
+
+### Action
+
+
+
+### Result
+
+## DSTA and JTC Conjur win
+
+### Applicable questions
+
+
+
+### Situation
+
+
+
+### Task
+
+
+
+### Action
+
+
+
+### Result
+
 ## Work in progress
 
 - Give me an example of a time when you set a goal and were able to meet or achieve it.
