@@ -118,6 +118,10 @@
 
 - IRAS, DSTA and JTC Conjur win
 - APJ SME: winning cases in India, ANZ, Vietnam, Taiwan
+- Internal regional SME quality survey correspondents reflected:
+  - 72-96 hours of presales effort save by having me as the Regional DevOps SME
+  - 60% of requests reduced to global SME team
+  - compared to average of 24-48 hours and 30% requests for other SME pillars (identity, access, endpoint)
 
 ## 5. Public Sector Events
 
