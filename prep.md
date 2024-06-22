@@ -37,13 +37,14 @@
 
 ### 2.2. Situation
 
-- GovTech advoacates IaC
-- CyberArk software doesn't work well with auto-scaling and IaC
-- Management did not see this as priority: direction is to ask GovTech to work it out themselves
+- GovTech compliance requires IaC
+  - CyberArk software doesn't work well with auto-scaling and IaC
+  - Management did not see this as priority: direction is to ask GovTech to work it out themselves
+- Small team running the GCC PIM system already stretched
 
 ### 2.3. Task
 
-
+- Help GovTech work outIaC methodology on CyberArk
 
 ### 2.4. Action
 
@@ -60,7 +61,11 @@
 
 ### 2.5. Result
 
-
+- GovTech feedback on operational efficiency numbers:
+  - Reduced the number of outstanding compliance issues by 20 lines items through automation
+  - Reduced 90% of operational tickets related to deployment 
+  - Reduced 90% of incident tickets on configuration errors attributable to human error by adopting Infrastructure as Code principles
+  - Saved approximately 96-120 man-hours per month required for monitoring, manual deployment, and configuration adjustments
 
 ## 3. Kubernetes extension for CyberArk PAM
 
@@ -95,7 +100,7 @@
 - Customer renewed CyberArk PAM for another 2 years
 - 2,000+ users, 20+ agencies
 
-## 4. Conjur SME
+## 4. DevOps SME
 
 ### 4.1. Applicable questions
 
@@ -103,21 +108,41 @@
 
 ### 4.2. Situation
 
-
+- Conjur was a new product in CyberArk
+- Limited competency in CyberArk for DevOps and application development
+- Pushing new product adoption is a key priority for sales and management
+- Gap between driving sales on new product and competency to support the sales activities
 
 ### 4.3. Task
 
-
+- Step up to help the region on DevOps
 
 ### 4.4. Action
 
-- consistent perserverance over 4 years in CyberArk
-- various articles on ansible, puppet, kubernetes, openshift, gitlab, jenkins, aws serverless (lambda, api gateway, RDS)
+- Establish myself as DevOps expert for both internal SEs and customer facing
+- Consistent perserverance over 4 years in CyberArk
+- Acquired expertise on industry trends and practices in DevOps
+- Self-driven initiative to research competitor or possible integration technologies to understand how industry uses them
+  - Container: Kubernetes, Openshift
+    - Deployment patterns, mTLS, service mesh
+    - Authentication mechanism in Kubernetes
+    - Show differences of using push-to-file, push-to-secrets (vol and env), secretless
+  - Programming: PHP, Node.js, Python, C#
+    - Application architecture, database connection
+  - Config mgmt: Ansible, Puppet, Terraform
+    - How each config mgmt tool work to manage systems, how secrets are used by them
+  - CI/CD tools: GitLab, Jenkins
+    - How each CI/CD tool work to run pipelines, how secrets are used by them
+  - Serverless: Lambda, API Gateway, RDS
+    - To relate to developers on serverless applications, AJAX method
+    - Show differences of using IAM authencation, Secrets Manager and Secrets Hub
+  - Competitor technology: Hashicorp Vault, Delinea, Teleport
 
 ### 4.5. Result
 
-- IRAS, DSTA and JTC Conjur win
+- Over 20 repositories published on GitHub
 - APJ SME: winning cases in India, ANZ, Vietnam, Taiwan
+  - IRAS, DSTA and JTC Conjur win, total up to 2 mil revenue
 - Internal regional SME quality survey correspondents reflected:
   - 72-96 hours of presales effort save by having me as the Regional DevOps SME
   - 60% of requests reduced to global SME team
@@ -132,25 +157,33 @@
 ### 5.2. Situation
 
 - Cost cutting: management considering to reduce marketing event and focus on the annual flagship Impact event
-- AWS Public Sector Day and NCS Red Hat joint symposium were at risk of being aborted
+  - AWS Public Sector Day and NCS Red Hat joint event were at risk of being aborted
+- Presentation topic:
+  - Management wanted to showcase product slides to drive product awareness
+  - I believed that speaking on concepts rather than specific products would be more engaging in events
 
 ### 5.3. Task
 
 - Maintain CyberArk presence and engagement level with SG Gov't customers
+- Establish CyberArk brand recognition as the identity security company
 
 ### 5.4. Action
 
 - Stakeholder management
   - Sales: tabulate GCC and NCS revenue and forecast potential revenue to justify event sponsorship
-  - Market: identify speaking topic
+  - Marketing: liason on content to be presented
   - SDR: Qualify lead and support to translate leads to opportunities
+- Presentation content:
+  - Built industry trends and practices-based content from scratch
+  - Focused on IM8, NIST 800-53, CISA ZTMM standards and regulations as background and drivers
+  - Showcased concepts and industry best practices on identity, least privilege, secure cloud and machine access, secrets and machine identity
 
 ### 5.5. Result
 
-- Represented CyberArk as speaker for AWS Public Sector Day and NCS Red Hat joint symposium
-- Over 100 leads generated in the 2 events
+- Represented CyberArk as speaker for AWS Public Sector Day and NCS Red Hat joint event
+- Over 100 leads generated in the 2 events - queries focused on fulfilling the industry trends and practices presented
 - Translated to sales:
-  - NDI: 250 user onboarding to GCC, approx 500k revenue
+  - NDI: 250 users onboarding to GCC, approx 500k revenue
   - IRAS, DSTA and JTC Conjur win, total up to 2 mil revenue
 
 ## Work in progress
