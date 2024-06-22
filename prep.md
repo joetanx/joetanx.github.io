@@ -5,6 +5,11 @@
 - Describe a situation in which you were able to use persuasion to successfully convince someone to see things your way.
 - Describe a time when you were faced with a stressful situation that demonstrated your coping skills.
 - Give me a specific example of a time when you used good judgment and logic in solving a problem.
+- Tell me about a time when you had too many things to do and you were required to prioritize your tasks.
+- Give me an example of a time when you had to make a split second decision.
+- Give me an example of a time when you used your fact-finding skills to solve a problem.
+- Tell me about a time when you missed an obvious solution to a problem.
+- Describe a time when you anticipated potential problems and developed preventive measures.
 
 ### 1.2. Situation
 
@@ -33,7 +38,9 @@
 
 ### 2.1. Applicable questions
 
-
+- Tell me about a time when you had to go above and beyond the call of duty in order to get a job done.
+- Give me an example of when you showed initiative and took the lead.
+- Tell me about a recent situation in which you had to deal with a very upset customer
 
 ### 2.2. Situation
 
@@ -71,7 +78,8 @@
 
 ### 3.1. Applicable questions
 
-
+- Give me an example of when you showed initiative and took the lead.
+- Tell me about a recent situation in which you had to deal with a very upset customer
 
 ### 3.2. Situation
 
@@ -104,7 +112,7 @@
 
 ### 4.1. Applicable questions
 
-
+- Give me an example of a time when you set a goal and were able to meet or achieve it.
 
 ### 4.2. Situation
 
@@ -152,7 +160,8 @@
 
 ### 5.1. Applicable questions
 
-
+- Tell me about a time when you had to use your presentation skills to influence someone's opinion.
+- Give me a specific example of a time when you had to conform to a policy with which you did not agree.
 
 ### 5.2. Situation
 
@@ -186,26 +195,43 @@
   - NDI: 250 users onboarding to GCC, approx 500k revenue
   - IRAS, DSTA and JTC Conjur win, total up to 2 mil revenue
 
-## Work in progress
+## 6. Negative Example
 
-- Give me an example of a time when you set a goal and were able to meet or achieve it.
-- Tell me about a time when you had to use your presentation skills to influence someone's opinion.
-- Give me a specific example of a time when you had to conform to a policy with which you did not agree.
-- Please discuss an important written document you were required to complete.
-- Tell me about a time when you had to go above and beyond the call of duty in order to get a job done.
-- Tell me about a time when you had too many things to do and you were required to prioritize your tasks.
-- Give me an example of a time when you had to make a split second decision.
+### 6.1. Applicable questions
+
 - What is your typical way of dealing with conflict? Give me an example.
 - Tell me about a time you were able to successfully deal with another person even when that individual may not have personally liked you (or vice versa).
-- Tell me about a difficult decision you've made in the last year.
-- Give me an example of a time when something you tried to accomplish and failed.
-- Give me an example of when you showed initiative and took the lead.
-- Tell me about a recent situation in which you had to deal with a very upset customer or co-worker.
+- Tell me about a recent situation in which you had to deal with a very upset co-worker.
 - Give me an example of a time when you motivated others.
+- Describe a time when you set your sights too high (or too low).
+
+### 6.2. Situation
+
+- Personally a high achiever and insist on highest standards
+- Lead to ocassional confrontation and some time escalation with sales, channels and service team on competency and quality
+- Give me an example of a time when something you tried to accomplish and failed.
+
+### 6.3. Task
+
+- Achieve high standards without escalation
+
+### 6.4. Action
+
+- Realize that not everyone is or wants to be a high achiever, black sheeps are inherent to any organization
+- Changed approach in communicating expectations:
+  - Dropped confrontational and demanding approach
+  - Changed to providing guidance and inspire other through personal experience
+- Listening and understanding team members stories, then providing personalize feedback to help grow as a team
+
+### 6.5. Result
+
+- Recognized as peer leader. foster workplace harmony
+- CyberArk Spotlight award 2020
+
+## Work in progress
+
+- Please discuss an important written document you were required to complete.
+- Tell me about a difficult decision you've made in the last year.
 - Tell me about a time when you delegated a project effectively.
-- Give me an example of a time when you used your fact-finding skills to solve a problem.
-- Tell me about a time when you missed an obvious solution to a problem.
-- Describe a time when you anticipated potential problems and developed preventive measures.
 - Tell me about a time when you were forced to make an unpopular decision.
 - Please tell me about a time you had to fire a friend.
-- Describe a time when you set your sights too high (or too low).
