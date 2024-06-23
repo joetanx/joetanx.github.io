@@ -44,4 +44,4 @@
 |Hashicorp Vault and Boundary|<https://github.com/joetanx/hashicorp>|
 |Delinea Secret Server|<https://github.com/joetanx/delinea-secret-server>|
 |Teleport|<https://github.com/joetanx/teleport>|
-|SOC Lab<br>Work in progress|<https://github.com/joetanx/soc-lab/>|
+|SOC Lab<br>Work in progress|<https://github.com/joetanx/setup/blob/main/soc-lab.md>|
