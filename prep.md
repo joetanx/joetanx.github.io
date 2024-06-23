@@ -73,6 +73,13 @@
   - Reduced 90% of operational tickets related to deployment 
   - Reduced 90% of incident tickets on configuration errors attributable to human error by adopting Infrastructure as Code principles
   - Saved approximately 96-120 man-hours per month required for monitoring, manual deployment, and configuration adjustments
+- Reduced GovTech cost of running the GCC PIM central service: implementing auto scaling and resource monitoring enabled continual right sizing of resources
+- Accurate metrics and utilization tracking enabled:
+  - Evidence-based decision making on performance and capacity mgmt
+  - Cloud governance with consistent performance
+  - Predictable consumption model for continuous improvement
+- Empower governance with evidence to prove that security policies are being enforced
+  - PAM reporting and continuous monitoring hooked up AWS via API integration
 
 ## 3. Kubernetes extension for CyberArk PAM
 
