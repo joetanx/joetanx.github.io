@@ -55,6 +55,19 @@
 
 ### 2.4. Action
 
+- Corporate guidance is on shared responsibility - GovTech should be responsible to resolve out their own GRC requirements
+- I chose to **listen** more to the customer and uncovered business risks to CyberArk:
+  - The GCC PIM was a single-purpose central service offered to fulfill IM8 requirements
+  - IM8 reform is in progress and PAM may be up to agency discretion to implement
+  - High costs and risks on operating the PIM central service
+    - Cost in Manpower overhead from manual processes
+    - Risks of misconfiguration from manual processes
+    - These costs and risks are beginning to outweigh the benefits of running the PIM central service
+  - GovTech had a CE change from Kok Ping Soon to Goh Wei Boon: new CE is skeptical about operating central services
+- Made a judgement call to convince management for resources to work on this, personally also went the extra mile to build relationship and support GovTech team
+
+#### 2.4.1. Controls Implemented:
+
 - AWS Auto Scaling to dynamically scale CyberArk instances based on demand
   - Instance level use **CloudFormation** deploy CyberArk components
   - **AWS Container Registry** to host CyberArk Conjur and HTML5 Gateway images
