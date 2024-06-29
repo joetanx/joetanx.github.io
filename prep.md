@@ -24,9 +24,14 @@
 
 ### 1.4. Action
 
-- Identified that the cause of failure was the platform quantity that was configured by customer beyond the supported limit
+- Balancing act: achieving zero data loss at the cost of prolonged vault service down time
+  - Reviewed customer vault EBS schedule and estimated maximum data loss of 24 hours
+  - Reviewed customer password policy and session usage: concluded that session recordings may be lost, but password out-of-sync issues would be minimal
+    - Password change frequency are set to 90 days, which is way less frequent than the EBS snapshot frequency
 - Convince both customer and internal support team to restore from EBS snapshot instead of trying to salvage a service that would like fail again even if it is restored
-- Orchestrated communications to stakeholders such as sales and customer and CyberArk senior management - provided periodic current status and next step updates of the triage
+  - Identified that the cause of failure was the platform quantity that was configured by customer beyond the supported limit
+- Stakeholder management between sales, partner, customer and CyberArk senior management
+  - Provided periodic current status and next step updates of the triage
 
 ### 1.5. Result
 
@@ -81,18 +86,36 @@
 
 ### 2.5. Result
 
-- Reduced GovTech cost of running the GCC PIM central service: implementing auto scaling and resource monitoring enabled continual right sizing of resources
-- Accurate metrics and utilization tracking enabled:
-  - Evidence-based decision making on performance and capacity mgmt
-  - Cloud governance with consistent performance
-  - Predictable consumption model for continuous improvement
-- GovTech feedback on operational efficiency numbers:
-  - Reduced the number of outstanding compliance issues by 20 lines items through automation
-  - Reduced 90% of operational tickets related to deployment 
-  - Reduced 90% of incident tickets on configuration errors attributable to human error by adopting Infrastructure as Code principles
-  - Saved approximately 96-120 man-hours per month required for monitoring, manual deployment, and configuration adjustments
-- Empower governance with evidence to prove that security policies are being enforced
+Reduced costs and risks of operating the GCC PIM central service
+
+#### Governance
+
+- Increased IaC methods from 0% to 70% of the GCC PIM components
+- Enabled consistent performance with automated controls
+
+#### Operations management
+
+- Reduced 90% of operational tickets related to deployment scaling
+- Reduced 90% of incident tickets on configuration errors attributed to human errors by adopting IaC principles
+- Reduced approximately 96-120 man-hours per month required for monitoring, manual deployment, and configuration adjustments
+
+#### Monitoring and observability
+
+- Reduced MTTD on failures and resource contention from 3-5 days to within 24 hours
+  - Immediately identify failures from CloudTrail and CloudWatch Logs
+  - Observablity of utilization from CloudWatch Metrics
+
+#### Compliance and audting
+
+- Reduced the number of outstanding compliance issues by 20 lines items through automation
+- Reduced time required to gather PAM audit evidence from 3-4 weeks to 5 business days
   - PAM reporting and continuous monitoring hooked up AWS via API integration
+- Enabled evidence-based decision making on performance and capacity mgmt
+
+#### Cloud financial management
+
+- IaC + auto scaling enabled continual resource right-sizing
+- Estimated reduction of compute costs by 30%
 
 ## 3. Kubernetes extension for CyberArk PAM
 
@@ -115,8 +138,9 @@
 
 ### 3.4. Action
 
-- Extension development
-  - Dissected Teleport to figure out how they did it
+- Extension development - logical development flow
+  - Research Kubernetes authentication mechanisms: token-based and certificate-based
+  - Dissected Teleport to figure out how they did it - reduced development time needed compared to building from scratch
   - Self-learned C# so that the logic can be implemented on CyberArk
   - Wrote Kubernetes extensions for access credential management and session management - **published on GitHub**
 - Stakeholder management
@@ -147,8 +171,7 @@
 
 ### 4.4. Action
 
-- Establish myself as DevOps expert for both internal SEs and customer facing
-- Consistent perserverance over 4 years in CyberArk
+- Consistent perserverance over 4 years in CyberArk to establish myself as DevOps expert for both internal SEs and customer facing
 - Acquired expertise on industry trends and practices in DevOps
 - Self-driven initiative to research competitor or possible integration technologies to understand how industry uses them
   - Container: Kubernetes, Openshift
@@ -241,7 +264,8 @@
 - Changed approach in communicating expectations:
   - Dropped confrontational and demanding approach
   - Changed to providing guidance and inspire other through personal experience
-- Listening and understanding team members stories, then providing personalize feedback to help grow as a team
+- Learned that empathy is not a weakness, but a method to rally people towards a common objective
+  - Listening and understanding team members stories, then providing personalize feedback to help grow as a team
 
 ### 6.5. Result
 
