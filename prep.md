@@ -207,7 +207,7 @@ Reduced costs and risks of operating the GCC PIM central service
   - NDI: 250 users onboarding to GCC, approx 500k revenue
   - IRAS, DSTA and JTC Conjur win, total up to 2 mil revenue
 
-## 6. Negative Example
+## 6. Learning Communication and Leadership
 
 ### 6.1. Situation
 
@@ -233,9 +233,35 @@ Reduced costs and risks of operating the GCC PIM central service
 - Recognized as peer leader in fostering workplace harmony
 - CyberArk Spotlight award 2020
 
-## 7. Discussion Topics
+## 7. Conflict with Secrets Management SA
 
-### 7.1. Monitoring vs Observability
+### 7.1. Situation
+
+- Opportunity with JTC for secrets management
+- JTC self-hosted environment is air-gapped
+- Corporate direction pushes for SaaS: Conjur Cloud and Secrets Hub
+
+### 7.2. Task
+
+- Pitch CyberArk secrets management to JTC
+
+### 7.3. Action
+
+- Leveraged on existing PAM conversation to gain deeper insights on JTC environment
+- Discovered customer key concern is secrets in Kubernetes (Nutanix)
+- Escalated to management to reverse pitch direction
+  - Built up justification with detailed customer architecture on requirements
+  - Convinced why SaaS solution would not fit, going against management and corporate wishes
+- Advocated doing what's best for the customer
+- Built bespoke Kubernetes integration use cases to demonstrate capabilities to JTC
+
+### 7.4. Result
+
+- JTC Conjur win - 1 mil AEB
+
+## 8. Discussion Topics
+
+### 8.1. Monitoring vs Observability
 
 Monitoring collects data on individual components; observability looks at the distributed system as a whole
 
@@ -243,7 +269,7 @@ Monitoring collects data on individual components; observability looks at the di
 - Observability (why and how): investigative approach that looks closely at distributed system component interactions and data collected by monitoring to find the root cause of issues
   - Metrics + Events + Logs + Traces
 
-### 7.2. Site Reliability Engineering
+### 8.2. Site Reliability Engineering
 
 - Practice of using software tools to automate IT infrastructure tasks such as system management and application monitoring
 - Ensure their software applications remain reliable amidst frequent updates from development teams
@@ -253,33 +279,33 @@ Monitoring collects data on individual components; observability looks at the di
   - Plans for the appropriate incident response to minimize the impact of downtime
   - Chaos engineering
 
-#### 7.2.1. Key Principles
+#### 8.2.1. Key Principles
 
 - Application monitoring
 - Gradual change implementation: release of frequent but small changes to maintain system reliability
 - Automation for reliability improvement
 
-#### 7.2.2. Monitoring and Observability in SRE
+#### 8.2.2. Monitoring and Observability in SRE
 
 - **Latency**: the delay when the application responds to a request
 - **Traffic**: volume of requests concurrently accessing your service
 - **Errors**: condition where the application fails to perform or deliver according to expectations
 - **Saturation**: real-time capacity of the application, high saturation = degraded performance, monitor saturation level and ensure it is below threshold
 
-#### 7.2.3. Key Principles
+#### 8.2.3. Key Principles
 
 - Service-level objectives (SLOs): specific and quantifiable goals that the software should achieve (uptime, system throughput, system output, download rate)
 - Service-level indicators (SLIs): actual measurements of the metric an SLO defines
 - Service-level agreements (SLAs): legal documents that state what would happen when one or more SLOs are not met
 
-#### 7.2.4. SRE vs DevOps
+#### 8.2.4. SRE vs DevOps
 
 - SRE is the practical implementation of DevOps
   - DevOps → philosophical foundation about maintaining software quality amidst increasingly shortened development timeline
   - SRE offers the answers to how to achieve DevOps success
 - SRE ensures that the DevOps team strikes the right balance between speed and stability
 
-#### 7.2.5. SRE Tools
+#### 8.2.5. SRE Tools
 
 - Automation: container orchestrator (EKS)
 - Configuration management: SSM, AWS Config, CloudFormation, Control Tower
@@ -287,7 +313,7 @@ Monitoring collects data on individual components; observability looks at the di
 - Incident response: Security Hub (automated response: EventBridge + Firehose + Lambda)
 - Governance/cost: Audit Manager, Budgets, Cost Explorer, Trusted Advisor
 
-### 7.3. Security Operations
+### 8.3. Security Operations
 
 CloudOps and SecOps are siblings in GRC
 
@@ -304,7 +330,7 @@ SecOps prevents malicious attempts to meddle with the lights
 - Incident Response
 - Compliance and Auditing
 
-### 7.4. AI Usage
+### 8.4. AI Usage
 
 - Automated repetitive tasks
 - Augment operator or analyst efforts: provide real-time insights and intelligent suggestions for issue resolution
@@ -314,13 +340,19 @@ SecOps prevents malicious attempts to meddle with the lights
   - Anormally detection: reduce mean time to detect
   - Automate analysis and reaction to problems: reduce mean time to respond
 
-### 7.4.1. AI Challenges
+### 8.4.1. AI Challenges
 
 - Data privacy
 - Bias in AI models or AI hallucinations
 - Over-reliance on AI
 
-## 10. Questions
+## 9. Questions to Ask
+
+- Based on what you observed while engaging customers in the field, what is the synergy or relationship between CloudOps, SRE and SecOps?
+- Based on my answers so far, can you highlight areas where I've got wrong? I'd like to learn from them
+- What are the areas that you think I'd struggle with if I take on this role?
+
+## 10. Question References
 
 ### 10.1. GCC PIM Vault Failure
 
