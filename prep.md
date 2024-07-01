@@ -351,6 +351,7 @@ SecOps prevents malicious attempts to meddle with the lights
 - Based on what you observed while engaging customers in the field, what is the synergy or relationship between CloudOps, SRE and SecOps?
 - Based on my answers so far, can you highlight areas where I've got wrong? I'd like to learn from them
 - What are the areas that you think I'd struggle with if I take on this role?
+- Since it's a worldwide business unit, why is this role chosen to be based in Singapore?
 
 ## 10. Question References
 
