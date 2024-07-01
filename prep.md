@@ -13,11 +13,12 @@
 
 ### 1.3. Action
 
-- Balancing act: achieving zero data loss at the cost of prolonged vault service down time
-  - Reviewed customer vault EBS schedule and estimated maximum data loss of 24 hours
+- Balancing RTO vs RPO:
+  - Potentially achieving zero data loss by rescuing vault since, at the cost of prolonged vault service down time (indefinite RTO)
+  - Reviewed customer vault EBS schedule and estimated maximum data loss (RPO) of 24 hours
   - Reviewed customer password policy and session usage: concluded that session recordings may be lost, but password out-of-sync issues would be minimal
     - Password change frequency are set to 90 days, which is way less frequent than the EBS snapshot frequency
-- Convince both customer and internal support team to restore from EBS snapshot instead of trying to salvage a service that would like fail again even if it is restored
+- Convince both customer and internal support team to restore from EBS snapshot instead of trying to salvage a service that would like fail again even if it is restored (risk)
   - Identified that the cause of failure was the platform quantity that was configured by customer beyond the supported limit
 - Stakeholder management between sales, partner, customer and CyberArk senior management
   - Provided periodic current status and next step updates of the triage
@@ -39,7 +40,7 @@
 
 ### 2.2. Task
 
-- Help GovTech work outIaC methodology on CyberArk
+- Help GovTech work out IaC methodology on CyberArk
 
 ### 2.3. Action
 
