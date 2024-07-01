@@ -1,3 +1,17 @@
+## 0. Key Highlights
+
+- 11 years in IT industry
+- Diverse background: started with compute, storage, network AD/Exchange to cloud, devops, cybersecurity
+- Multi/hybrid cloud architecture design
+- Securing major government ministries: GovTech, MAS, IRAS, JTC
+- Compliance to regulatory standards: NIST 800-53, IM8, MAS TRM, CSA Zero Trust, SOC 2 Type II
+- Regional: DevOps SME for APJ in Cyberark, public sector SA for SEA in Fortinet
+- Certifications/Continuous Learning:
+  - CISSP, CISA, OSCP
+  - Multiple cloud certs in AWS, Azure, GCP
+  - Technical certs in Linux, Terraform, Kubernetes
+  - Self learned programming: PHP, Python, C#, Node.js, MySQL, PostgreSQL
+
 ## 1. GCC PIM Vault Failure
 
 ### 1.1. Situation
