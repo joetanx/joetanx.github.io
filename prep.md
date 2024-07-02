@@ -370,7 +370,7 @@ SecOps prevents malicious attempts to meddle with the lights
 
 ## 10. Question References
 
-### 10.1. GCC PIM Vault Failure
+### 10.1. [GCC PIM Vault Failure](#1-gcc-pim-vault-failure)
 
 - Describe a situation in which you were able to use persuasion to successfully convince someone to see things your way.
 - Describe a time when you were faced with a stressful situation that demonstrated your coping skills.
@@ -381,27 +381,27 @@ SecOps prevents malicious attempts to meddle with the lights
 - Tell me about a time when you missed an obvious solution to a problem.
 - Describe a time when you anticipated potential problems and developed preventive measures.
 
-### 10.2. GCC PIM Operational Governance
+### 10.2. [GCC PIM Operational Governance](#2-gcc-pim-operational-governance)
 
 - Tell me about a time when you had to go above and beyond the call of duty in order to get a job done.
 - Give me an example of when you showed initiative and took the lead.
 - Tell me about a recent situation in which you had to deal with a very upset customer
 
-### 10.3. Kubernetes extension for CyberArk PAM
+### 10.3.[ Kubernetes extension for CyberArk PAM](#3-kubernetes-extension-for-cyberark-pam)
 
 - Give me an example of when you showed initiative and took the lead.
 - Tell me about a recent situation in which you had to deal with a very upset customer
 
-### 10.4. DevOps SME
+### 10.4. [DevOps SME](#4-devops-sme)
 
 - Give me an example of a time when you set a goal and were able to meet or achieve it.
 
-### 10.5. Public Sector Events
+### 10.5. [Public Sector Events](#5-public-sector-events)
 
 - Tell me about a time when you had to use your presentation skills to influence someone's opinion.
 - Give me a specific example of a time when you had to conform to a policy with which you did not agree.
 
-### 10.6. Negative Example
+### 10.6. [Learning Communication and Leadership](#6-learning-communication-and-leadership)
 
 - What is your typical way of dealing with conflict? Give me an example.
 - Tell me about a time you were able to successfully deal with another person even when that individual may not have personally liked you (or vice versa).
@@ -409,10 +409,18 @@ SecOps prevents malicious attempts to meddle with the lights
 - Give me an example of a time when you motivated others.
 - Describe a time when you set your sights too high (or too low).
 
-### 10.7. Uncategorized
+### 10.7. [Conflict with Secrets Management SA](#7-conflict-with-secrets-management-sa)
 
+- What is your typical way of dealing with conflict? Give me an example.
+- Tell me about a time you were able to successfully deal with another person even when that individual may not have personally liked you (or vice versa).
+- Tell me about a recent situation in which you had to deal with a very upset co-worker.
+- Describe a situation in which you were able to use persuasion to successfully convince someone to see things your way.
+- Describe a time when you anticipated potential problems and developed preventive measures.
 - Please discuss an important written document you were required to complete.
 - Tell me about a difficult decision you've made in the last year.
-- Tell me about a time when you delegated a project effectively.
 - Tell me about a time when you were forced to make an unpopular decision.
+
+### 10.8. Uncategorized
+
+- Tell me about a time when you delegated a project effectively.
 - Please tell me about a time you had to fire a friend.
