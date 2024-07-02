@@ -68,6 +68,11 @@
     - These costs and risks are beginning to outweigh the benefits of running the PIM central service
   - GovTech had a CE change from Kok Ping Soon to Goh Wei Boon: new CE is skeptical about operating central services
 - Made a judgement call to convince management for resources to work on this, personally also went the extra mile to build relationship and support GovTech team
+- IaC design and implementation for GCC PIM
+  - Walked through the design architecture to identify possible ways to IaC each component
+  - Identified state of CyberArk-provided AMIs vs desired state after automation
+  - Detailed testing of automation scripts to cover the gaps
+  - Worked with GovTech on documentation of operation and maintenance to ensure sustainability of the IaC setup
 
 #### 2.3.1. Controls Implemented:
 
