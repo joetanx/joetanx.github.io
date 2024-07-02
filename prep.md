@@ -138,7 +138,7 @@ Reduced costs and risks of operating the GCC PIM central service
 ### 3.3. Action
 
 - Extension development - logical development flow
-  - Research Kubernetes authentication mechanisms: token-based and certificate-based
+  - Deep-dived and studied about Kubernetes authentication mechanisms: token-based and certificate-based
   - Dissected Teleport to figure out how they did it - reduced development time needed compared to building from scratch
   - Self-learned C# so that the logic can be implemented on CyberArk
   - Wrote Kubernetes extensions for access credential management and session management - **published on GitHub**
@@ -275,6 +275,10 @@ Reduced costs and risks of operating the GCC PIM central service
   - Convinced why SaaS solution would not fit, going against management and corporate wishes
 - Advocated doing what's best for the customer
 - Built bespoke Kubernetes integration use cases to demonstrate capabilities to JTC
+  - Deep-dived and studied about Kubernetes secrets injection methods: push-to-file, push to secrets (env), push to secrets (vol), CSI Driver
+  - Dissected Hashicorp vault to figure out how they did it
+  - Provided detailed architecture on each methods and conduct technical deep-dive workshop with JTC
+- Holistic architecture design for JTC on PAM + Conjur + Credential Provider to meet every use case
 
 ### 7.4. Result
 
