@@ -39,9 +39,11 @@
 
 ### 1.4. Result
 
-- GCC PIM service was restored within 4 hours
+**Contained potential damages**
+
+- GCC PIM service was restored within 4 hours - **maintained compliance to the GCC PIM SLA obligations** to the tenants
 - Some data was lost for the duration until the point of snapshot - further post incident actions taken to work with affected tenants
-- Stakeholder confidence in CyberArk was retained because of the swift decision and recovery
+- **Retained stakeholder confidence** in CyberArk because of the swift decision and recovery
 
 ## 2. GCC PIM Operational Governance
 
@@ -95,9 +97,11 @@ Reduced costs and risks of operating the GCC PIM central service
 #### 2.4.1. Governance
 
 - Increased IaC methods from 0% to 70% of the GCC PIM components
-- Enabled consistent performance with automated controls
+- **Improved reliability** with consistent performance delivered by automated controls
 
 #### 2.4.2. Operations management
+
+**Enhanced Operational Efficiency:**
 
 - Reduced 90% of operational tickets related to deployment scaling
 - Reduced 90% of incident tickets on configuration errors attributed to human errors by adopting IaC principles
@@ -105,16 +109,16 @@ Reduced costs and risks of operating the GCC PIM central service
 
 #### 2.4.3. Monitoring and observability
 
-- Reduced MTTD on failures and resource contention from 3-5 days to within 24 hours
+- Reduced MTTD on failures and utilization spike issues from 3-5 days to within 24 hours
   - Immediately identify failures from CloudTrail and CloudWatch Logs
   - Observablity of utilization from CloudWatch Metrics
 
 #### 2.4.4. Compliance and audting
 
-- Reduced the number of outstanding compliance issues by 20 lines items through automation
-- Reduced time required to gather PAM audit evidence from 3-4 weeks to 5 business days
+- Reduced the number of outstanding **compliance** issues by 20 lines items through automation
+- Reduced time required to gather PAM **audit evidence** from 3-4 weeks to 5 business days
   - PAM reporting and continuous monitoring hooked up AWS via API integration
-- Enabled evidence-based decision making on performance and capacity mgmt
+- Enabled **data-driven decision-making and strategic planning** on performance and capacity mgmt
 
 #### 2.4.5. Cloud financial management
 
@@ -147,6 +151,8 @@ Reduced costs and risks of operating the GCC PIM central service
   - Product management: review extensions and obtain approval to publish
 
 ### 3.4. Result
+
+**Mitigated risk of CyberArk deprecation**
 
 - Customer renewed CyberArk PAM for another 2 years
 - 2,000+ users, 20+ agencies
@@ -189,7 +195,7 @@ Reduced costs and risks of operating the GCC PIM central service
 - Over 20 repositories published on GitHub
 - APJ SME: winning cases in India, ANZ, Vietnam, Taiwan
   - IRAS, DSTA and JTC Conjur win, total up to 2 mil revenue
-- Internal regional SME quality survey correspondents reflected:
+- **Improved DevOps sector collaboration**: internal regional SME quality survey correspondents reflected:
   - 72-96 hours of presales effort save by having me as the Regional DevOps SME
   - 60% of requests reduced to global SME team
   - compared to average of 24-48 hours and 30% requests for other SME pillars (identity, access, endpoint)
@@ -222,6 +228,8 @@ Reduced costs and risks of operating the GCC PIM central service
 
 ### 5.4. Result
 
+**Bolstered CyberArk brand presence**
+
 - Represented CyberArk as speaker for AWS Public Sector Day and NCS Red Hat joint event
 - Over 100 leads generated in the 2 events - queries focused on fulfilling the industry trends and practices presented
 - Translated to sales:
@@ -250,6 +258,8 @@ Reduced costs and risks of operating the GCC PIM central service
   - Listening and understanding team members stories, then providing personalize feedback to help grow as a team
 
 ### 6.4. Result
+
+**Improved team collaboration culture**
 
 - Recognized as peer leader in fostering workplace harmony
 - CyberArk Spotlight award 2020
@@ -282,7 +292,9 @@ Reduced costs and risks of operating the GCC PIM central service
 
 ### 7.4. Result
 
-- JTC Conjur win - 1 mil AEB
+- **Mitigate risk of opportunity loss**
+  - JTC Conjur win - 1 mil AEB
+- Fostered open and direct communication for team collaboration
 
 ## 8. Discussion Topics
 
