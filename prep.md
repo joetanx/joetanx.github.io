@@ -71,7 +71,8 @@
 - IaC design and implementation for GCC PIM
   - Walked through the design architecture to identify possible ways to IaC each component
   - Identified state of CyberArk-provided AMIs vs desired state after automation
-  - Detailed testing of automation scripts to cover the gaps
+  - Detailed testing of instance **User Data Scripts** to cover the gaps
+  - Considered CloudFormation and OpsWorks but GovTech had concerns over yaml files and puppet/chef maintenance, decided to use PowerShell/bash scripts in User Data Scripts
   - Worked with GovTech on documentation of operation and maintenance to ensure sustainability of the IaC setup
 
 #### 2.3.1. Controls Implemented:
@@ -79,9 +80,9 @@
 - AWS Auto Scaling to dynamically scale CyberArk instances based on demand
   - Instance level use **CloudFormation** deploy CyberArk components
   - **AWS Container Registry** to host CyberArk Conjur and HTML5 Gateway images
-  - Guest level use Amazon EC2 Auto Scaling **lifecycle hooks** to:
+  - Guest level use Amazon EC2 Auto Scaling **User Data Script** to:
     - Deploy custom scripts to register components to vault
-    - Clean-up actions with lambda to trigger on instance termination to clean-up vault records
+    - Clean-up actions on instance termination to clean-up vault records
 - **CloudTrail** to monitor configuration actions on the CyberArk deployments
 - **SSM** to automate patch management of PAM Windows OS and Conjur Linux OS
 - **CloudWatch Logs** to aggregate PAM and Conjur logs - early warning if any automated activities failed
