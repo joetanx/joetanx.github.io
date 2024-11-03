@@ -38,7 +38,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 #### Regional Subject Matter Expert for Lacework
 
 - Developed go-to-market enablement workshops on integration of Fortinet Security Fabric with Lacework CNAPP
-- Developed technical deep dive workshops on Lacework to uplift engineering competency on Cloud, Kubernetes, DevOps CI/CD workflows
+- Developed technical deep dive workshops on Lacework to uplift engineering competency on cloud services (AWS, Azure, GCP), Kubernetes, application development lifecycle, and DevOps CI/CD workflows
 - Developed **Customer Experience Workshops** to provide strategic guidance cloud security programmes to enhance cloud and container security posture, enable threat detection and response in cloud-native applications, enforcing least privileges in the cloud
 
 ## 3.2. Senior Solutions Engineer • CyberArk
