@@ -29,11 +29,17 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 ## 3.1. Regional Solutions Architect, Public Sector • Fortinet
 ### _March 2024 → Present_
 
-#### Solution Strategy in the Public Sector
+#### Regional Subject Matter Expert for Security Operations
 
-- Designed Fortinet secure networking architectures to implement **zero-trust model** on secure private access to resources, complying to government regulations.
-- Designed scalable and resilient application security architectures that leverage Fortinet's **Web Application and API Protection** solutions to protect mission-critical applications against a wide range of cyber attacks.
-- Designed workflow and architecture to leverage Fortinet's AI Driven **security operations** on threat detection, incident response, and orchestration to improve overall efficiency and **reduce Mean Time to Acknowledge/Detect**.
+- Designed workflow on leveraging Fortinet’s AI Driven security operations to provide prescriptive guidance on threat detection, incident response, orchestration to improve overall effciency, and reduce Mean Time to Acknowledge/Detect
+- Developed **Customer Experience Workshops** on hybrid cloud security operations to demonstrate various use cases such as Web Application attack mitigation, security task automation, and threat detection and response in the cloud
+- Designed **multi-tenanted SIEM and SOAR architecture** in hybrid cloud deployment for federal environments
+
+#### Regional Subject Matter Expert for Lacework
+
+- Developed go-to-market enablement workshops on integration of Fortinet Security Fabric with Lacework CNAPP
+- Developed technical deep dive workshops on Lacework to uplift engineering competency on Cloud, Kubernetes, DevOps CI/CD workflows
+- Developed **Customer Experience Workshops** to provide strategic guidance cloud security programmes to enhance cloud and container security posture, enable threat detection and response in cloud-native applications, enforcing least privileges in the cloud
 
 ## 3.2. Senior Solutions Engineer • CyberArk
 ### _May 2020 → March 2024_
