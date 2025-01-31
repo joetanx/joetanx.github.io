@@ -1,16 +1,16 @@
-<img src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg" width="200">
+<img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="200">
 
 ## Joe Tan
 
-### Regional Solutions Architect
+### Sr Technical Specialist
 
-#### Public Sector, ASEAN
+#### Security
 
 <br>
 
 📱: +65 8157 5097
 
-✉: tjoe@fortinet.com
+✉: `to-be-updated`
 
 🌐: https://sg.linkedin.com/in/joetanx/
 
