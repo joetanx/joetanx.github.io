@@ -10,7 +10,7 @@
 
 📱: +65 8157 5097
 
-✉: `to-be-updated`
+✉: tanjoe@microsoft.com
 
 🌐: https://sg.linkedin.com/in/joetanx/
 
