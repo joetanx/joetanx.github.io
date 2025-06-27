@@ -2,7 +2,7 @@
 
 ## Joe Tan
 
-### Sr Technical Specialist for Security
+### Security Solutions Engineer
 
 📱: +65 8157 5097
 
