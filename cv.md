@@ -29,17 +29,32 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 ## 3.1. Senior Solutions Engineer, Security • Microsoft
 ### _February 2025 → Present_
 
-Projects (editing)
-- Microsoft Defender for Cloud
-- Agentic AI with Security Copilot and Azure AI foundry
-- Threat hunting file hash and domain in Sentinel
-- Configuration Manager Endpoint Protection
-- Sentinel Windows security event deep dive - WEF and events collected by Sentinel
-- Sentinel to Defender, Unified RBAC, multi-tenant management
-- Sentinel ingestion API
-- Entra OAuth flow
-- Cribl
+Projects
+- Microsoft Defender for Cloud (MDC)
+  - Enhance customer cloud and kubernetes security posture management with MDC CSPM
+  - Protect customer Azure-native and multi/hybrid cloud workloads with Defender for Servers
+  - Protect customer critical data from malware and exploits with Defender for databases and storage
+- Creative project to enhance SecOps response with Agentic AI capabilities by integrating Sentinel SOAR with Security Copilot and Azure AI foundry
+- Customer threat hunting experience workshop on hunting for file hash and domain in Sentinel, project references:
+  - https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md
+  - https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md
+- Customer on-premise air-gapped workload protection workshop with Configuration Manager Endpoint Protection
+  - Project reference: https://github.com/joetanx/mslab/tree/main/ConfigMgr
+- Customer Sentinel Windows security deep dive workshop - WEF and events collected by Sentinel, project references:
+  - https://github.com/joetanx/sentinel/blob/main/windows-event-forwarding.md
+  - https://github.com/joetanx/sentinel/blob/main/windows-security-events.md
+- Customer next-generation XDR experience workspace on Sentinel to Defender, Unified RBAC, multi-tenant management, project references:
+  - https://github.com/joetanx/sentinel/blob/main/defender-portal.md
+  - https://github.com/joetanx/defender/blob/main/unified-rbac.md
+  - https://github.com/joetanx/defender/blob/main/mto.md
+- Customer custom ingestion deep-dive workshop on Log Analytics ingestion API
+  - Project reference: https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md
+- Customer programmatic resource access deep-dive workshop on Entra OAuth flow
+  - Project reference: https://github.com/joetanx/mslab/blob/main/oauth-2.0-flows.md
+- Customer Sentinel integration with custom third-party ingestion with Cribl deep-dive workshop
+  - Project reference: https://github.com/joetanx/cribl/tree/main
 - Observability project with OpenTelemetry (colllector), Prometheus (Metrics), Tempo (Traces), Loki (Logs) and Grafana (Visualization) + Node.js demo app adapted from OpenTelemetry
+  - Project reference:https://github.com/joetanx/o11y-lab
 
 ## 3.2. Regional Solutions Architect, Public Sector • Fortinet
 ### _March 2024 → February 2025_
