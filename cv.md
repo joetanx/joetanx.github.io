@@ -10,7 +10,7 @@ CISSP • CISA • OSCP
 
 # 1. Profile
 
-Joe Tan is a dynamic Solution Architect with over 11 years of experience in the IT industry, specializing in safeguarding data and applications for organizations. Driven and self-motivated, Joe continuously enhances his multi-disciplinary skillset, spanning across diverse technology domains such as cloud, DevOps, and cybersecurity.
+Joe Tan is a dynamic Solution Architect with over 12 years of experience in the IT industry, specializing in safeguarding data and applications for organizations. Driven and self-motivated, Joe continuously enhances his multi-disciplinary skillset, spanning across diverse technology domains such as cloud, DevOps, and cybersecurity.
 
 Recognized as a valuable team member, Joe excels in fostering team excellence, mentoring new members, and has a proven track record of successfully positioning technical wins for the sale of complex solutions to government and large enterprise customers.
 
@@ -18,7 +18,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 |Domain|Certificate|
 |---|---|
-|Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020<br>• Fortinet Certified Solution Specialist (FCSS) Security Operations, 2024<br>• Fortinet Certified Professional (FCP) Security Operations, 2024|
+|Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020<br>• Fortinet Certified Solution Specialist (FCSS) Security Operations, 2024<br>• Fortinet Certified Professional (FCP) Security Operations, 2024<br>• Microsoft Certified: Security Operations Analyst Associate (2025)<br>• Microsoft Certified: Cybersecurity Architect Expert (2025)|
 |Cloud and DevOps|• AWS Certified: Solutions Architect – Professional, 2021<br>• Microsoft Certified: Azure Solutions Architect Expert, 2023<br>• Microsoft Certified: Azure Administrator Associate, 2023<br>• Google Cloud Certified: Professional Cloud Architect, 2023<br>• HashiCorp Certified: Terraform Associate (003), 2023<br>• Certified Kubernetes Application Developer (CKAD), 2021|
 |Operating Systems|• Red Hat Certified Engineer (RHCE), 2021<br>• Red Hat Certified System Administrator (RHCSA), 2021<br>• Microsoft Certified Professional, 2015|
 |Network|• Cisco Certified Network Associate (CCNA), 2019<br>• Sophos Certified Engineer, 2019<br>• Huawei Specialist Certification, HCS-Pre-sales-WLAN, 2015|
@@ -26,8 +26,23 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 # 3. Experience
 
-## 3.1. Regional Solutions Architect, Public Sector • Fortinet
-### _March 2024 → Present_
+## 3.1. Senior Solutions Engineer, Security • Microsoft
+### _February 2025 → Present_
+
+Projects (editing)
+- Microsoft Defender for Cloud
+- Agentic AI with Security Copilot and Azure AI foundry
+- Threat hunting file hash and domain in Sentinel
+- Configuration Manager Endpoint Protection
+- Sentinel Windows security event deep dive - WEF and events collected by Sentinel
+- Sentinel to Defender, Unified RBAC, multi-tenant management
+- Sentinel ingestion API
+- Entra OAuth flow
+- Cribl
+- Observability project with OpenTelemetry (colllector), Prometheus (Metrics), Tempo (Traces), Loki (Logs) and Grafana (Visualization) + Node.js demo app adapted from OpenTelemetry
+
+## 3.2. Regional Solutions Architect, Public Sector • Fortinet
+### _March 2024 → February 2025_
 
 #### Regional Subject Matter Expert for Security Operations
 
@@ -35,13 +50,13 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 - Developed **Customer Experience Workshops** on hybrid cloud security operations to demonstrate various use cases such as Web Application attack mitigation, security task automation, and threat detection and response in the cloud
 - Designed **multi-tenanted SIEM and SOAR architecture** in hybrid cloud deployment for federal environments
 
-#### Regional Subject Matter Expert for Lacework
+#### Regional Subject Matter Expert for FortinCNAPP (Formerly Lacework)
 
 - Developed go-to-market enablement workshops on integration of Fortinet Security Fabric with Lacework CNAPP
 - Developed technical deep dive workshops on Lacework to uplift engineering competency on cloud services (AWS, Azure, GCP), Kubernetes, application development lifecycle, and DevOps CI/CD workflows
 - Developed **Customer Experience Workshops** to provide strategic guidance cloud security programmes to enhance cloud and container security posture, enable threat detection and response in cloud-native applications, enforcing least privileges in the cloud
 
-## 3.2. Senior Solutions Engineer • CyberArk
+## 3.3. Senior Solutions Engineer • CyberArk
 ### _May 2020 → March 2024_
 
 #### Regional Subject Matter Expert for Cloud and DevSecOps in ASEAN
@@ -122,7 +137,7 @@ Project repositories:
 - Orchestrated strategic key wins for **Conjur** in revenue, defence and trade government agencies.
 - Conducted in-depth competitor product analysis to shift market perception in favor of CyberArk's emerging product against **Hashicorp**.
 
-## 3.3. Solutions Director • Ascenxus
+## 3.4. Solutions Director • Ascenxus
 ### _April 2017 → May 2020_
 
 #### Business Development
@@ -151,7 +166,7 @@ Project repositories:
 - Designed a hybrid-cloud architecture between **Azure** and **on-premise** data centers.
 - Successfully migrated over **300 users** from self-hosted Active Directory, Exchange, and SharePoint to **Microsoft 365**.
 
-## 3.4. Solutions Consultant • BIT Solution
+## 3.5. Solutions Consultant • BIT Solution
 ### _July 2016 → April 2017_
 
 #### Enterprise Storage and Data Protection for Singapore Telco
@@ -170,7 +185,7 @@ Project repositories:
 - Designed the **VMware hyperconverged** and software-defined network architecture for **self-hosted private cloud**.
 - Successfully migrated over **300 servers** from **10 regional sites** to the new platform.
 
-## 3.5. Solutions Consultant • Acclivis
+## 3.6. Solutions Consultant • Acclivis
 ### _May 2013 → June 2016_
 
 #### Active Directory and SharePoint Solution for Singapore Government Ministry
