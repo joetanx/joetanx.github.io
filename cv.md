@@ -18,7 +18,7 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 
 |Domain|Certificate|
 |---|---|
-|Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020<br>• Fortinet Certified Solution Specialist (FCSS) Security Operations, 2024<br>• Fortinet Certified Professional (FCP) Security Operations, 2024<br>• Microsoft Certified: Security Operations Analyst Associate (2025)<br>• Microsoft Certified: Cybersecurity Architect Expert (2025)|
+|Security|• Certified Information Systems Security Professional (CISSP), 2018<br>• Offensive Security Certified Professional (OSCP), 2023<br>• Certified Information Systems Auditor (CISA), 2020<br>• Fortinet Certified Solution Specialist (FCSS) Security Operations, 2024<br>• Fortinet Certified Professional (FCP) Security Operations, 2024<br>• Microsoft Certified: Security Operations Analyst Associate, 2025<br>• Microsoft Certified: Cybersecurity Architect Expert, 2025|
 |Cloud and DevOps|• AWS Certified: Solutions Architect – Professional, 2021<br>• Microsoft Certified: Azure Solutions Architect Expert, 2023<br>• Microsoft Certified: Azure Administrator Associate, 2023<br>• Google Cloud Certified: Professional Cloud Architect, 2023<br>• HashiCorp Certified: Terraform Associate (003), 2023<br>• Certified Kubernetes Application Developer (CKAD), 2021|
 |Operating Systems|• Red Hat Certified Engineer (RHCE), 2021<br>• Red Hat Certified System Administrator (RHCSA), 2021<br>• Microsoft Certified Professional, 2015|
 |Network|• Cisco Certified Network Associate (CCNA), 2019<br>• Sophos Certified Engineer, 2019<br>• Huawei Specialist Certification, HCS-Pre-sales-WLAN, 2015|
