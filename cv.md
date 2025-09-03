@@ -29,32 +29,66 @@ Recognized as a valuable team member, Joe excels in fostering team excellence, m
 ## 3.1. Senior Solutions Engineer, Security • Microsoft
 ### _February 2025 → Present_
 
-Projects
-- Microsoft Defender for Cloud (MDC)
-  - Enhance customer cloud and kubernetes security posture management with MDC CSPM
-  - Protect customer Azure-native and multi/hybrid cloud workloads with Defender for Servers
-  - Protect customer critical data from malware and exploits with Defender for databases and storage
-- Creative project to enhance SecOps response with Agentic AI capabilities by integrating Sentinel SOAR with Security Copilot and Azure AI foundry
-- Customer threat hunting experience workshop on hunting for file hash and domain in Sentinel, project references:
+In this pre-sales engineering role, I drive technical proof-of-concepts and deliver advanced security workshops to help public sector customers adopt Microsoft's cloud security and SecOps solutions.
+
+**Microsoft Defender for Cloud (MDC)**
+
+- Implemented Azure cloud and Kubernetes **Cloud Security Posture Management (CSPM)** for clients, improving their multi-cloud security posture.
+- Deployed **Defender for Servers** to protect Azure-native and hybrid workloads, enhancing threat detection across environments.
+- Safeguarded critical data by integrating **Defender for Databases** and **Defender for Storage**, mitigating malware and exploit risks.
+
+**AI-Driven SecOps Automation**
+
+- Innovated a SecOps incident response solution by integrating **Microsoft Sentinel** (SIEM/SOAR) with **Microsoft Security Copilot** and **Azure AI Foundry**.
+- This creative project demonstrated agentic AI capabilities for automated threat triage and response, accelerating Security Operations Center efficiency.
+
+**Threat Hunting Workshop**
+
+- Developed and conducted hands-on threat hunting experience workshops for customers, focusing on searching malicious file hashes and domain names in **Microsoft Sentinel**.
+- Published step-by-step labs to GitHub for ongoing learning, including guides at:
   - https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md
   - https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md
-- Customer on-premise air-gapped workload protection workshop with Configuration Manager Endpoint Protection
-  - Project reference: https://github.com/joetanx/mslab/tree/main/ConfigMgr
-- Customer Sentinel Windows security deep dive workshop - WEF and events collected by Sentinel, project references:
-  - https://github.com/joetanx/sentinel/blob/main/windows-event-forwarding.md
-  - https://github.com/joetanx/sentinel/blob/main/windows-security-events.md
-- Customer next-generation XDR experience workspace on Sentinel to Defender, Unified RBAC, multi-tenant management, project references:
+
+**Air-Gapped Endpoint Security**
+
+- Other than cloud-native protection, I am also deeply driven to help customer protect their on-premises, air-gapped workload.
+- Developed and conducted Endpoint Protection with **Microsoft Confguration Maanger** (SCCM) workshops to demonstrate how to secure isolated networks effectively, and provided lab guide for practitioners on GitHub:
+  - https://github.com/joetanx/mslab/tree/main/ConfigMgr
+
+**Customer Experience on Next-Generation XDR**
+
+- Developed and conducted _Next-Gen XDR_ workshops on integrating Microsoft Sentinel with **Microsoft 365 Defender**.
+- Illustrated a unified security operations workspace with **Unified RBAC** and cross-tenant management
+- Provided below lab guides on GitHub to showcase centralized threat monitoring across multiple tenants:
   - https://github.com/joetanx/sentinel/blob/main/defender-portal.md
   - https://github.com/joetanx/defender/blob/main/unified-rbac.md
   - https://github.com/joetanx/defender/blob/main/mto.md
-- Customer custom ingestion deep-dive workshop on Log Analytics ingestion API
-  - Project reference: https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md
-- Customer programmatic resource access deep-dive workshop on Entra OAuth flow
-  - Project reference: https://github.com/joetanx/mslab/blob/main/oauth-2.0-flows.md
-- Customer Sentinel integration with custom third-party ingestion with Cribl deep-dive workshop
-  - Project reference: https://github.com/joetanx/cribl/tree/main
-- Observability project with OpenTelemetry (colllector), Prometheus (Metrics), Tempo (Traces), Loki (Logs) and Grafana (Visualization) + Node.js demo app adapted from OpenTelemetry
-  - Project reference:https://github.com/joetanx/o11y-lab
+
+**Custom ingestion deep-dive on Log Analytics ingestion API**
+
+- Developed and conducted technical deep-dive workshops on ingesting custom data into Sentinel via the **Log Analytics ingestion API**.
+- Helped customers bring in proprietary data sources for analysis, providing sample scripts and a reference implementation on GitHub:
+  - https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md>
+
+**Programmatic resource access deep-dive Entra OAuth flow**
+
+- Developed and conducted technical deep-dive workshops on programmatic resource access using **Microsoft Entra ID (Azure AD)** OAuth 2.0 flows.
+- Demonstrated how to securely authenticate services in automation scenarios, sharing best practices and a sample guide on GitHub:
+  - https://github.com/joetanx/mslab/blob/main/oauth-2.0-flows.md
+
+**Sentinel integration with custom third-party ingestion via Cribl**
+
+- Other than the Microsoft ingestion methods, I am also deeply involved to empower customers to fit Microsoft product within their environment, several public sector use cases was on Cribl.
+- Developed and conducted technical deep-dive workshops on integrating Microsoft Sentinel with third-party log pipelines using **Cribl**.
+- Showcased how to route and transform event data for Sentinel, and published a reference architecture in my GitHub repository:
+  - https://github.com/joetanx/cribl/
+
+**Cloud Observability Lab:**
+
+- Built an end-to-end observability demo using a Node.js application and open-source telemetry tools.
+- Integrated **OpenTelemetry Collector**, **Prometheus** (metrics), **Tempo** (traces), **Loki** (logs), and **Grafana** (visualization) to illustrate full-stack monitoring.
+- This project highlighted cloud-native monitoring techniques for modern applications and is published in my GitHub repository:
+  - https://github.com/joetanx/o11y-lab
 
 ## 3.2. Regional Solutions Architect, Public Sector • Fortinet
 ### _March 2024 → February 2025_
