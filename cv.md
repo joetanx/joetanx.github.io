@@ -46,49 +46,49 @@ In this pre-sales engineering role, I drive technical proof-of-concepts and deli
 
 - Developed and conducted hands-on threat hunting experience workshops for customers, focusing on searching malicious file hashes and domain names in **Microsoft Sentinel**.
 - Published step-by-step labs to GitHub for ongoing learning, including guides at:
-  - https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md
-  - https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md
+  - <https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md>
+  - <https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md>
 
 **Air-Gapped Endpoint Security**
 
 - Other than cloud-native protection, I am also deeply driven to help customer protect their on-premises, air-gapped workload.
 - Developed and conducted Endpoint Protection with **Microsoft Confguration Maanger** (SCCM) workshops to demonstrate how to secure isolated networks effectively, and provided lab guide for practitioners on GitHub:
-  - https://github.com/joetanx/mslab/tree/main/ConfigMgr
+  - <https://github.com/joetanx/mslab/tree/main/ConfigMgr>
 
 **Customer Experience on Next-Generation XDR**
 
 - Developed and conducted _Next-Gen XDR_ workshops on integrating Microsoft Sentinel with **Microsoft 365 Defender**.
 - Illustrated a unified security operations workspace with **Unified RBAC** and cross-tenant management
 - Provided below lab guides on GitHub to showcase centralized threat monitoring across multiple tenants:
-  - https://github.com/joetanx/sentinel/blob/main/defender-portal.md
-  - https://github.com/joetanx/defender/blob/main/unified-rbac.md
-  - https://github.com/joetanx/defender/blob/main/mto.md
+  - <https://github.com/joetanx/sentinel/blob/main/defender-portal.md>
+  - <https://github.com/joetanx/defender/blob/main/unified-rbac.md>
+  - <https://github.com/joetanx/defender/blob/main/mto.md>
 
 **Custom ingestion deep-dive on Log Analytics ingestion API**
 
 - Developed and conducted technical deep-dive workshops on ingesting custom data into Sentinel via the **Log Analytics ingestion API**.
 - Helped customers bring in proprietary data sources for analysis, providing sample scripts and a reference implementation on GitHub:
-  - https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md>
+  - <https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md>
 
 **Programmatic resource access deep-dive Entra OAuth flow**
 
 - Developed and conducted technical deep-dive workshops on programmatic resource access using **Microsoft Entra ID (Azure AD)** OAuth 2.0 flows.
 - Demonstrated how to securely authenticate services in automation scenarios, sharing best practices and a sample guide on GitHub:
-  - https://github.com/joetanx/mslab/blob/main/oauth-2.0-flows.md
+  - <https://github.com/joetanx/mslab/blob/main/oauth-2.0-flows.md>
 
 **Sentinel integration with custom third-party ingestion via Cribl**
 
 - Other than the Microsoft ingestion methods, I am also deeply involved to empower customers to fit Microsoft product within their environment, several public sector use cases was on Cribl.
 - Developed and conducted technical deep-dive workshops on integrating Microsoft Sentinel with third-party log pipelines using **Cribl**.
 - Showcased how to route and transform event data for Sentinel, and published a reference architecture in my GitHub repository:
-  - https://github.com/joetanx/cribl/
+  - <https://github.com/joetanx/cribl/>
 
 **Cloud Observability Lab:**
 
 - Built an end-to-end observability demo using a Node.js application and open-source telemetry tools.
 - Integrated **OpenTelemetry Collector**, **Prometheus** (metrics), **Tempo** (traces), **Loki** (logs), and **Grafana** (visualization) to illustrate full-stack monitoring.
 - This project highlighted cloud-native monitoring techniques for modern applications and is published in my GitHub repository:
-  - https://github.com/joetanx/o11y-lab
+  - <https://github.com/joetanx/o11y-lab/>
 
 ## 3.2. Regional Solutions Architect, Public Sector • Fortinet
 ### _March 2024 → February 2025_
