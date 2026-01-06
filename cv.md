@@ -45,9 +45,9 @@ In this pre-sales engineering role, I drive technical proof-of-concepts and deli
 **Threat Hunting Workshop**
 
 - Developed and conducted hands-on threat hunting experience workshops for customers, focusing on searching malicious file hashes and domain names in **Microsoft Sentinel**.
-- Published step-by-step labs to GitHub for ongoing learning, including guides at:
-  - <https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md>
-  - <https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md>
+- Published step-by-step labs to GitHub for ongoing learning, including write-ups at:
+  - <https://github.com/joetanx/sentinel/blob/main/detection/hunting-file-hash.md>
+  - <https://github.com/joetanx/sentinel/blob/main/detection/hunting-domain-name.md>
 
 **Air-Gapped Endpoint Security**
 
@@ -68,7 +68,7 @@ In this pre-sales engineering role, I drive technical proof-of-concepts and deli
 
 - Developed and conducted technical deep-dive workshops on ingesting custom data into Sentinel via the **Log Analytics ingestion API**.
 - Helped customers bring in proprietary data sources for analysis, providing sample scripts and a reference implementation on GitHub:
-  - <https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md>
+  - <https://github.com/joetanx/sentinel/tree/main/logs-ingestion-api>
 
 **Programmatic resource access deep-dive Entra OAuth flow**
 
